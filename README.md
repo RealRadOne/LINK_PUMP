@@ -8,6 +8,7 @@ Link_Pump is made in an attempt to make our collection of links available in a n
 `sh build.sh`
 
 ## Usage
+Extract telegram group chat -> Run python script to extract data -> Run Link_Pump to convert to .md -> Mizi builds website
 Currently the usage is very specific but could be generalised for curating knowledge. 
 
 ## How it works
