@@ -102,7 +102,7 @@ void addPart(Page *page, string name) {
 struct Category {
   string name;
   int pageCount;
-  Page *pages[32];
+  Page *pages[100];
 };
 
 struct Category *Categories[16];
