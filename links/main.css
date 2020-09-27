@@ -16,6 +16,8 @@ body header a#logo img { width:100%; }
 body main img.capsule { width: 150px; }
 body main img.medium {max-width: 300px;}
 body main > * { max-width: 600px; margin-bottom: 30px }
+body main.home > * { max-width: unset; margin-bottom: 30px }
+
 body main > h1 { font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial; font-size:45px; text-transform: capitalize; padding-bottom:30px; }
 body main > h2 { font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial; font-size:30px; text-transform: capitalize; }
 body main > img { width:100%; max-width: 600px }
@@ -23,6 +25,13 @@ body main > ul { font-family: 'input_mono_regular'; font-size:12px; line-height:
 body main > ul li {}
 body main > ul li a { text-transform: capitalize; text-decoration: underline; }
 body main > ul li b { font-weight: bold }
+
+body main.home > ul  { columns:4; line-height: 20px;  font-family: 'input_mono_regular'; font-size:12px; line-height: 20px }
+body main.home > ul li { list-style-type: decimal-leading-zero; list-style-position: inside; text-transform: capitalize;}
+body main.home > ul li a { text-transform: capitalize; text-decoration: underline; }
+body main.home > ul li::marker { color:#777; }
+body main.home > ul li:hover { background:black; color:white; }
+
 body main > ul li:hover a { text-decoration: none; }
 body main > p { line-height: 28px; font-size:18px; }
 body main > p a { text-decoration: underline; }
