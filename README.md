@@ -1,6 +1,8 @@
 # Link Pump
 Pump links out from LINK_DUMP
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0f13e200-1667-41c7-9f25-e782383922d0/deploy-status)](https://app.netlify.com/sites/link-pump/deploys)
+
 LINK_DUMP is a personal telegram group which my friends and I use to dump links from the internet which we find intriguing.
 Link_Pump is made in an attempt to make our collection of links available in a neat and organized fashion.
 
