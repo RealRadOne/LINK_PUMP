@@ -14,7 +14,7 @@ using namespace std;
 
 void createSite(string filename, string path)
 {
-  Category *Categories[200];
+  Category *Categories[16];
 
   Config *conf = configParser();
   Category **cats;

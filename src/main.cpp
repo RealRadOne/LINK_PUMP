@@ -78,7 +78,14 @@ Link* parseCsvLine(std::string line, long int linecount){
 void addLink(Link* link){
     for(auto item : link->tags){
         
+        //Remove Whitespaces
+        item.erase(remove(item.begin(),item.end(),' '),item.end());
+        item = capsFirst(item);
+
         // If tag not found, create tag
+        if(item==" "){
+            item = "all";
+        }
         if(tagList.find(item) == tagList.end()){
             std::vector<Link*> linkList(1,link);
             tagList[item] = linkList;

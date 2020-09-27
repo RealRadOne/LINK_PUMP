@@ -8,7 +8,7 @@
 
 using namespace std;
 
-Category *createCategory(Category *Categories[200], string name, int count)
+Category *createCategory(Category *Categories[16], string name, int count)
 {
     Category *newCategory = new Category;
     newCategory->name = name;
@@ -17,7 +17,7 @@ Category *createCategory(Category *Categories[200], string name, int count)
     return newCategory;
 }
 
-Category **createCategories(Category *Categories[200], int *categoryCount, string filename, string path)
+Category **createCategories(Category *Categories[16], int *categoryCount, string filename, string path)
 {
 
     string line;
