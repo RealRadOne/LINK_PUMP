@@ -1,0 +1,6092 @@
+{
+ "name": "LINK DUMP",
+ "type": "private_supergroup",
+ "id": 9784998403,
+ "messages": [
+  {
+   "id": -999997548,
+   "type": "service",
+   "date": "2020-05-14T10:29:52",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "create_group",
+   "title": "LINK DUMP",
+   "members": [
+    "Sangule",
+    "RadOne",
+    "IFTTT"
+   ],
+   "text": ""
+  },
+  {
+   "id": -999997547,
+   "type": "message",
+   "date": "2020-05-14T10:30:12",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "link",
+     "text": "http://re2c.org/"
+    }
+   ]
+  },
+  {
+   "id": -999997546,
+   "type": "message",
+   "date": "2020-05-14T10:30:28",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start@IFTTT"
+    }
+   ]
+  },
+  {
+   "id": -999997545,
+   "type": "message",
+   "date": "2020-05-14T10:30:28",
+   "from": "IFTTT",
+   "from_id": 240044026,
+   "reply_to_message_id": -999997546,
+   "text": [
+    "This group was successfully connected to your IFTTT account. You can now use it with ",
+    {
+     "type": "text_link",
+     "text": "Telegram Applets on IFTTT",
+     "href": "https://ifttt.com/telegram"
+    },
+    "."
+   ]
+  },
+  {
+   "id": -999997542,
+   "type": "message",
+   "date": "2020-05-14T10:31:30",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": "Wait I'm setting it up"
+  },
+  {
+   "id": -999997541,
+   "type": "service",
+   "date": "2020-05-14T10:37:36",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "migrate_to_supergroup",
+   "text": ""
+  },
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2020-05-14T10:37:36",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "migrate_from_group",
+   "title": "LINK DUMP",
+   "text": ""
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2020-05-14T10:54:02",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://leetcode.com/discuss/interview-question/124658/Design-a-URL-Shortener-(-TinyURL-)-System/"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2020-05-14T10:54:19",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.educative.io/m/github-student-course-list"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2020-05-14T11:28:12",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2020-05-14T11:30:13",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt@IFTTT"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2020-05-14T11:30:13",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "forwarded_from": "Sangule",
+   "text": [
+    {
+     "type": "link",
+     "text": "http://re2c.org/"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2020-05-14T11:30:30",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://re2c.org/"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2020-05-14T11:33:54",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.katacoda.com/embed/"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2020-05-14T11:34:07",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/goldsborough/latexpp"
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2020-05-14T11:43:34",
+   "edited": "2020-09-01T08:37:41",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Format: \n<Category Tag1>,<Tag2>,<Tag3>,<Link>\nWe'll update the links on drive ",
+    {
+     "type": "text_link",
+     "text": "Drive",
+     "href": "https://docs.google.com/spreadsheets/d/1FroisTWJUEHghnByRWEV113d1g9dPX84MRW6JBfYl4E/edit?usp=drivesdk"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "type": "service",
+   "date": "2020-05-14T11:43:42",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "pin_message",
+   "message_id": 61,
+   "text": ""
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2020-05-14T11:43:54",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt@IFTTT"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2020-05-14T11:44:18",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2020-05-14T11:48:31",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=9g32v7bK3Co"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2020-05-14T11:58:31",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://fosstodon.org/tags/fossmendations"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2020-05-14T12:32:54",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.valgrind.org/"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2020-05-14T12:33:07",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://jrnl.sh/"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "type": "service",
+   "date": "2020-05-14T13:24:27",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "pin_message",
+   "message_id": 75,
+   "text": ""
+  },
+  {
+   "id": 82,
+   "type": "service",
+   "date": "2020-05-14T13:24:34",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "pin_message",
+   "message_id": 61,
+   "text": ""
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2020-05-14T13:44:42",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://genparse.sourceforge.net/"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "service",
+   "date": "2020-05-14T13:47:00",
+   "actor": "RadOne",
+   "actor_id": 1054858681,
+   "action": "edit_group_photo",
+   "photo": "photos/photo_1@14-05-2020_13-47-00.jpg",
+   "width": 640,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2020-05-14T16:54:06",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://graphics.stanford.edu/~seander/bithacks.html#IntegerLog10Obvious"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2020-05-14T16:58:49",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=cfs47D_L71I"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2020-05-14T17:00:41",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://serviceworke.rs/"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2020-05-14T19:15:34",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://flathub.org/apps/details/com.github.alainm23.planner"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2020-05-14T22:21:17",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3"
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2020-05-14T22:38:16",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://fosstodon.org/web/statuses/104164193766251528"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2020-05-15T08:02:11",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://gist.github.com/AbstractXan/81116f3583aa52d784e4d69ea88e0062"
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2020-05-15T15:53:55",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://developers.redhat.com/articles/defensive-coding-guide/?intcmp=70160000000h1s6AAA&extIdCarryOver=true&sc_cid=701f2000001OH79AAG"
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2020-05-15T17:16:25",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://beakerbrowser.com/"
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2020-05-15T17:21:09",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://p2pforever.org/"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2020-05-15T17:46:36",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html"
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2020-05-15T17:46:52",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://cultureandcommunication.org/galloway/anti-computer"
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2020-05-15T18:17:44",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=beaker-browser"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2020-05-15T18:28:34",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://webring.xxiivv.com/wiki.html"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2020-05-15T18:34:11",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://nikitavoloboev.xyz/"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2020-05-15T18:34:39",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "reply_to_message_id": 119,
+   "text": "⭐️⭐️⭐️⭐️"
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2020-05-15T20:40:13",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e"
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2020-05-16T08:05:49",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://en.wikipedia.org/wiki/Flow-based_programming"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2020-05-16T08:16:35",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://en.wikipedia.org/wiki/Knowledge_worker"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2020-05-16T11:04:07",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=jX3OXwpEpl8"
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2020-05-16T11:55:15",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.pdfdrive.com/head-first-design-patterns-u-cursos-d16346712.html"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2020-05-16T17:09:08",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.tensorflow.org/tutorials"
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2020-05-16T17:18:58",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way"
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2020-05-16T17:33:05",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2020-05-16T20:51:12",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/donnemartin/system-design-primer"
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2020-05-16T21:11:32",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.educative.io/edpresso/what-are-functional-and-nonfunctional-requirements"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2020-05-16T21:58:48",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.acodersjourney.com/database-sharding/"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2020-05-17T17:59:02",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://tinysubversions.com/"
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2020-05-18T09:08:40",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.quora.com/What-is-break-point-in-machine-learning"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2020-05-18T13:26:12",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589"
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2020-05-18T21:50:30",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://towardsdatascience.com/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d"
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2020-05-19T18:53:33",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb"
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2020-05-20T08:24:55",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.11ty.dev/"
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2020-05-20T10:48:36",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.hdip-data-analytics.com/_media/resources/pdf/s4/grokking_deep_learning.pdf?fbclid=IwAR03p-n2PRvh6gcxibGwQe4BHs7QwfRjZ2ugDCIauHLohsyYOyMnpYIrvuE"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2020-05-21T14:37:07",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "www.pramp.com"
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2020-05-21T18:29:19",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://orange.biolab.si/"
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2020-05-21T21:40:17",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/biolab/orange-docker"
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2020-05-21T21:45:05",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://neo4j.com/developer/docker-run-neo4j/"
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2020-05-23T18:23:22",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/collabnix/dockerlabs"
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2020-05-23T21:04:34",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://sourcehut.org"
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2020-05-23T21:07:59",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://drewdevault.com/"
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2020-05-24T16:08:46",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://medium.com/@kartikrawat61/dbms-notes-for-sde1-preparation-80c460604aa6"
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2020-05-24T18:23:49",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://leetcode.com/discuss/general-discussion/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide"
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2020-05-25T09:53:14",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.geeksforgeeks.org/lmns-gq/"
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2020-05-25T12:09:40",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=ByDNPmgPRjg"
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2020-05-26T06:23:08",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://algorithm-visualizer.org"
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2020-05-26T06:26:22",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://contribute.dev/"
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2020-05-26T12:18:09",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://pandoc.org/"
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2020-05-26T20:08:11",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/online-judge-tools/oj"
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2020-05-26T20:52:04",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.codeproject.com/Articles/9680/Persistent-Data-Structures"
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2020-05-27T11:18:50",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://leetcode.com/discuss/interview-question/object-oriented-design/454422/OOP-vs-FP-vs-AOP"
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2020-06-01T10:44:47",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.siafoo.net/algorithm/11"
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2020-06-03T10:35:15",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://medium.com/better-programming/how-to-ace-the-coding-interview-by-an-ex-facebook-interviewer-9c163a845d05"
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "type": "message",
+   "date": "2020-06-03T18:03:54",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://leetcode.com/list/xo2bgr0r/"
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "type": "message",
+   "date": "2020-06-03T18:04:06",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "type": "message",
+   "date": "2020-06-03T18:07:39",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://leetcode.com/discuss/interview-question/object-oriented-design/124739/Parking-Lot-Design-Using-OO-Design"
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "type": "message",
+   "date": "2020-06-03T18:10:36",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "interviewbit.com/courses/programming/topics/time-complexity/"
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "type": "message",
+   "date": "2020-06-04T13:39:09",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://explorabl.es/"
+    }
+   ]
+  },
+  {
+   "id": 222,
+   "type": "message",
+   "date": "2020-06-04T13:39:23",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=XRXTsQwyZSU"
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "type": "message",
+   "date": "2020-06-04T13:39:39",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://ncase.me/trust/"
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "type": "message",
+   "date": "2020-06-04T16:18:02",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://gowebexamples.com/http-server/"
+    }
+   ]
+  },
+  {
+   "id": 232,
+   "type": "message",
+   "date": "2020-06-04T18:00:56",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://leetcode.com/discuss/interview-question/object-oriented-design/124703/Object-Oriented-design-Question"
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "message",
+   "date": "2020-06-04T18:02:24",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://leetcode.com/discuss/interview-question/object-oriented-design/124737/Difference-between-abstraction-and-encapsulation"
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "type": "message",
+   "date": "2020-06-04T18:54:28",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z"
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "type": "message",
+   "date": "2020-06-05T11:18:33",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF"
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2020-06-06T14:20:30",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf"
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2020-06-06T15:43:08",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA/playlists"
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "type": "message",
+   "date": "2020-06-06T18:32:38",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://youtu.be/NoDRq6Twkts"
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "type": "message",
+   "date": "2020-06-06T20:35:57",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://youtu.be/iKn0GzF5-IU"
+    }
+   ]
+  },
+  {
+   "id": 249,
+   "type": "message",
+   "date": "2020-06-07T10:02:19",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://hackattic.com/challenges"
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "type": "message",
+   "date": "2020-06-07T20:57:34",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/narkoz/hacker-scripts"
+    }
+   ]
+  },
+  {
+   "id": 253,
+   "type": "message",
+   "date": "2020-06-08T09:36:24",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.pdfdrive.com/clean-code-ricardo-geek-d18658971.html"
+    }
+   ]
+  },
+  {
+   "id": 255,
+   "type": "message",
+   "date": "2020-06-08T09:39:55",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to"
+    }
+   ]
+  },
+  {
+   "id": 257,
+   "type": "message",
+   "date": "2020-06-08T18:04:16",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://makelinux.github.io/kernel/map/"
+    }
+   ]
+  },
+  {
+   "id": 259,
+   "type": "message",
+   "date": "2020-06-08T20:12:54",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://docs.google.com/document/u/0/d/1VNoEUzBtyCw0fDw0X_bvuhmCwz1qhNjETPJc5VRZqm8/mobilebasic#"
+    }
+   ]
+  },
+  {
+   "id": 261,
+   "type": "message",
+   "date": "2020-06-09T06:12:04",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://nodes.io/"
+    }
+   ]
+  },
+  {
+   "id": 263,
+   "type": "message",
+   "date": "2020-06-09T06:22:09",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://althea.net/"
+    }
+   ]
+  },
+  {
+   "id": 268,
+   "type": "message",
+   "date": "2020-06-09T12:45:24",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://goalkicker.com/"
+    }
+   ]
+  },
+  {
+   "id": 270,
+   "type": "message",
+   "date": "2020-06-09T18:09:31",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=qQ8vS2btsxI"
+    }
+   ]
+  },
+  {
+   "id": 272,
+   "type": "message",
+   "date": "2020-06-09T20:48:00",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/tonsky/FiraCode"
+    }
+   ]
+  },
+  {
+   "id": 274,
+   "type": "message",
+   "date": "2020-06-10T09:42:22",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://summerofcode.withgoogle.com/organizations/?sp-page=2"
+    }
+   ]
+  },
+  {
+   "id": 276,
+   "type": "message",
+   "date": "2020-06-12T03:13:31",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.pcmaffey.com/roll-your-own-analytics"
+    }
+   ]
+  },
+  {
+   "id": 392,
+   "type": "message",
+   "date": "2020-06-12T04:11:13",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "Drive",
+     "href": "https://docs.google.com/spreadsheets/d/1FroisTWJUEHghnByRWEV113d1g9dPX84MRW6JBfYl4E/edit?usp=drivesdk"
+    },
+    "  is now cleaned and updated."
+   ]
+  },
+  {
+   "id": 393,
+   "type": "message",
+   "date": "2020-06-12T09:47:59",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.vagrantup.com/intro/vs/docker"
+    }
+   ]
+  },
+  {
+   "id": 395,
+   "type": "message",
+   "date": "2020-06-12T10:26:46",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLmxT2pVYo5LDMV0epL4z4CUbxvIw6umg_"
+    }
+   ]
+  },
+  {
+   "id": 397,
+   "type": "message",
+   "date": "2020-06-12T11:28:42",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://leetcode.com/discuss/general-discussion/680706/article-on-trie-general-template-and-list-of-problems"
+    }
+   ]
+  },
+  {
+   "id": 399,
+   "type": "message",
+   "date": "2020-06-12T11:49:06",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/jhawthorn/fzy"
+    }
+   ]
+  },
+  {
+   "id": 401,
+   "type": "message",
+   "date": "2020-06-12T11:54:28",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/google/orbit"
+    }
+   ]
+  },
+  {
+   "id": 403,
+   "type": "message",
+   "date": "2020-06-12T11:58:27",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://paulbatchelor.github.io/"
+    }
+   ]
+  },
+  {
+   "id": 405,
+   "type": "message",
+   "date": "2020-06-12T18:11:06",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+    }
+   ]
+  },
+  {
+   "id": 409,
+   "type": "message",
+   "date": "2020-06-13T09:47:00",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/channel/UCiuhuf2Xq0d05_4sHG0xmQA"
+    }
+   ]
+  },
+  {
+   "id": 411,
+   "type": "message",
+   "date": "2020-06-13T09:48:39",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.instagram.com/machinelearning/"
+    }
+   ]
+  },
+  {
+   "id": 415,
+   "type": "message",
+   "date": "2020-06-13T17:33:36",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://youtu.be/r0Ogt-q956I"
+    }
+   ]
+  },
+  {
+   "id": 417,
+   "type": "message",
+   "date": "2020-06-13T18:49:50",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://ksat.me/a-plain-english-introduction-to-cap-theorem"
+    }
+   ]
+  },
+  {
+   "id": 423,
+   "type": "message",
+   "date": "2020-06-14T03:52:38",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.dailycodingproblem.com/"
+    }
+   ]
+  },
+  {
+   "id": 427,
+   "type": "message",
+   "date": "2020-06-14T09:11:58",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/GothenburgBitFactory/timewarrior"
+    }
+   ]
+  },
+  {
+   "id": 429,
+   "type": "message",
+   "date": "2020-06-14T21:31:02",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX"
+    }
+   ]
+  },
+  {
+   "id": 435,
+   "type": "message",
+   "date": "2020-06-14T23:02:41",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/omarroth/invidious"
+    }
+   ]
+  },
+  {
+   "id": 437,
+   "type": "message",
+   "date": "2020-06-15T11:08:10",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/user/thatlondon/featured"
+    }
+   ]
+  },
+  {
+   "id": 439,
+   "type": "message",
+   "date": "2020-06-15T21:37:33",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=atCbbvKOKnU"
+    }
+   ]
+  },
+  {
+   "id": 441,
+   "type": "message",
+   "date": "2020-06-16T16:49:23",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/"
+    }
+   ]
+  },
+  {
+   "id": 443,
+   "type": "message",
+   "date": "2020-06-16T20:19:27",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://fosstodon.org/web/statuses/104349271355746443"
+    }
+   ]
+  },
+  {
+   "id": 457,
+   "type": "message",
+   "date": "2020-06-16T20:26:08",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://b-ok.asia/book/2855973/aaf467"
+    }
+   ]
+  },
+  {
+   "id": 461,
+   "type": "message",
+   "date": "2020-06-17T16:54:50",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.kaggle.com/simulations"
+    }
+   ]
+  },
+  {
+   "id": 465,
+   "type": "message",
+   "date": "2020-06-17T18:26:51",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/"
+    }
+   ]
+  },
+  {
+   "id": 469,
+   "type": "message",
+   "date": "2020-06-18T06:50:15",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://google.github.io/styleguide/cppguide.html"
+    }
+   ]
+  },
+  {
+   "id": 471,
+   "type": "message",
+   "date": "2020-06-18T17:54:32",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.learncpp.com/"
+    }
+   ]
+  },
+  {
+   "id": 477,
+   "type": "message",
+   "date": "2020-06-19T17:26:33",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://crontab.guru/"
+    }
+   ]
+  },
+  {
+   "id": 479,
+   "type": "service",
+   "date": "2020-06-19T17:34:25",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "invite_members",
+   "members": [
+    "Siddish"
+   ],
+   "text": ""
+  },
+  {
+   "id": 480,
+   "type": "message",
+   "date": "2020-06-19T18:53:01",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.codota.com/"
+    }
+   ]
+  },
+  {
+   "id": 482,
+   "type": "message",
+   "date": "2020-06-19T21:31:16",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.tldp.org/LDP/abs/abs-guide.pdf"
+    }
+   ]
+  },
+  {
+   "id": 486,
+   "type": "message",
+   "date": "2020-06-20T09:39:42",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/chrislgarry/Apollo-11"
+    }
+   ]
+  },
+  {
+   "id": 488,
+   "type": "message",
+   "date": "2020-06-20T11:49:26",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://instagram.com/neuralnet.ai?igshid=1cpx2eb2d0p46"
+    }
+   ]
+  },
+  {
+   "id": 492,
+   "type": "message",
+   "date": "2020-06-20T21:38:54",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://nlpoverview.com/"
+    }
+   ]
+  },
+  {
+   "id": 496,
+   "type": "message",
+   "date": "2020-06-21T07:20:02",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/roylee0704/gron"
+    }
+   ]
+  },
+  {
+   "id": 498,
+   "type": "message",
+   "date": "2020-06-21T08:16:25",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://kvz.io/lock-your-cronjobs.html"
+    }
+   ]
+  },
+  {
+   "id": 500,
+   "type": "message",
+   "date": "2020-06-21T11:34:45",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790"
+    }
+   ]
+  },
+  {
+   "id": 502,
+   "type": "message",
+   "date": "2020-06-22T12:10:29",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://krita.org/en/download/krita-desktop/"
+    }
+   ]
+  },
+  {
+   "id": 504,
+   "type": "message",
+   "date": "2020-06-22T17:48:00",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit"
+    }
+   ]
+  },
+  {
+   "id": 506,
+   "type": "message",
+   "date": "2020-06-24T09:33:25",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+    }
+   ]
+  },
+  {
+   "id": 508,
+   "type": "message",
+   "date": "2020-06-24T09:37:30",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": "All links manually checked and  updated with Drive until this message."
+  },
+  {
+   "id": 509,
+   "type": "message",
+   "date": "2020-06-24T11:05:03",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://tonsky.me/blog/github-redesign/"
+    }
+   ]
+  },
+  {
+   "id": 511,
+   "type": "message",
+   "date": "2020-06-24T17:15:52",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://learnawesome.org/"
+    }
+   ]
+  },
+  {
+   "id": 513,
+   "type": "message",
+   "date": "2020-06-24T17:58:59",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.sitepoint.com/a-comprehensive-crash-course-into-cronjobs/"
+    }
+   ]
+  },
+  {
+   "id": 515,
+   "type": "message",
+   "date": "2020-06-24T18:04:33",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://tiddlywiki.com/"
+    }
+   ]
+  },
+  {
+   "id": 529,
+   "type": "message",
+   "date": "2020-06-25T12:18:21",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.cs.rutgers.edu/~pxk/417/notes/index.html"
+    }
+   ]
+  },
+  {
+   "id": 531,
+   "type": "message",
+   "date": "2020-06-25T12:20:26",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://haveibeenpwned.com/"
+    }
+   ]
+  },
+  {
+   "id": 533,
+   "type": "message",
+   "date": "2020-06-25T17:41:50",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/syxanash/awesome-web-desktops"
+    }
+   ]
+  },
+  {
+   "id": 535,
+   "type": "message",
+   "date": "2020-06-25T20:56:41",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/ohmyzsh/ohmyzsh/wiki"
+    }
+   ]
+  },
+  {
+   "id": 537,
+   "type": "message",
+   "date": "2020-06-26T18:54:47",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.leetfree.com/"
+    }
+   ]
+  },
+  {
+   "id": 539,
+   "type": "message",
+   "date": "2020-06-28T11:40:04",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://deep-learning-drizzle.github.io/"
+    }
+   ]
+  },
+  {
+   "id": 541,
+   "type": "message",
+   "date": "2020-06-28T16:53:00",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/Roche/lxdhub"
+    }
+   ]
+  },
+  {
+   "id": 543,
+   "type": "message",
+   "date": "2020-06-29T06:42:29",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://web.archive.org/web/20200507085330/http://www.powersearchingwithgoogle.com/"
+    }
+   ]
+  },
+  {
+   "id": 545,
+   "type": "message",
+   "date": "2020-06-29T06:45:44",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/Alikhll/golang-developer-roadmap"
+    }
+   ]
+  },
+  {
+   "id": 547,
+   "type": "message",
+   "date": "2020-06-29T06:57:41",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://golangbot.com/learn-golang-series/"
+    }
+   ]
+  },
+  {
+   "id": 549,
+   "type": "message",
+   "date": "2020-06-29T06:58:46",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/tmrts/go-patterns"
+    }
+   ]
+  },
+  {
+   "id": 551,
+   "type": "message",
+   "date": "2020-06-29T17:52:47",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.cyberciti.biz/faq/howto-run-nginx-in-a-chroot-jail/"
+    }
+   ]
+  },
+  {
+   "id": 553,
+   "type": "message",
+   "date": "2020-06-30T18:06:55",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://cp-algorithms.com/combinatorics/catalan-numbers.html"
+    }
+   ]
+  },
+  {
+   "id": 555,
+   "type": "message",
+   "date": "2020-07-02T09:07:11",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://gabnotes.org/sourcehut"
+    }
+   ]
+  },
+  {
+   "id": 557,
+   "type": "message",
+   "date": "2020-07-02T10:32:19",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=H8YnVk2vhzghttps://www.youtube.com/watch?v=H8YnVk2vhzg"
+    }
+   ]
+  },
+  {
+   "id": 559,
+   "type": "message",
+   "date": "2020-07-02T13:17:33",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLD8E5717592CF5C26"
+    }
+   ]
+  },
+  {
+   "id": 561,
+   "type": "message",
+   "date": "2020-07-02T15:25:34",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.design-patterns-stories.com/"
+    }
+   ]
+  },
+  {
+   "id": 563,
+   "type": "message",
+   "date": "2020-07-02T15:41:03",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://vim-adventures.com/"
+    }
+   ]
+  },
+  {
+   "id": 565,
+   "type": "message",
+   "date": "2020-07-02T20:57:48",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.glideapps.com/"
+    }
+   ]
+  },
+  {
+   "id": 568,
+   "type": "message",
+   "date": "2020-07-03T05:10:39",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://joplinapp.org/"
+    }
+   ]
+  },
+  {
+   "id": 571,
+   "type": "message",
+   "date": "2020-07-03T10:21:26",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://youtu.be/tc4ROCJYbm0"
+    }
+   ]
+  },
+  {
+   "id": 573,
+   "type": "message",
+   "date": "2020-07-04T10:03:48",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/fpereiro/backendlore"
+    }
+   ]
+  },
+  {
+   "id": 575,
+   "type": "message",
+   "date": "2020-07-04T10:49:35",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/you-dont-need/You-Dont-Need"
+    }
+   ]
+  },
+  {
+   "id": 577,
+   "type": "message",
+   "date": "2020-07-04T16:49:06",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://dev.to/techelevator/the-myth-of-the-t-shaped-developer-eki"
+    }
+   ]
+  },
+  {
+   "id": 579,
+   "type": "message",
+   "date": "2020-07-05T15:58:38",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/jlevy/the-art-of-command-line"
+    }
+   ]
+  },
+  {
+   "id": 581,
+   "type": "message",
+   "date": "2020-07-05T17:50:31",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.vishalchovatiya.com/category/misc/"
+    }
+   ]
+  },
+  {
+   "id": 583,
+   "type": "message",
+   "date": "2020-07-06T14:26:15",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/jnv/lists"
+    }
+   ]
+  },
+  {
+   "id": 585,
+   "type": "message",
+   "date": "2020-07-06T14:28:23",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://highscalability.com/"
+    }
+   ]
+  },
+  {
+   "id": 587,
+   "type": "message",
+   "date": "2020-07-06T14:29:03",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://powir.slapbot.me/"
+    }
+   ]
+  },
+  {
+   "id": 589,
+   "type": "message",
+   "date": "2020-07-06T15:12:51",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://nathanbarry.com/wealth-creation/"
+    }
+   ]
+  },
+  {
+   "id": 591,
+   "type": "message",
+   "date": "2020-07-06T21:49:17",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "app.saastruniversity.com/share/MDOmoKP0bRuLsV7B"
+    }
+   ]
+  },
+  {
+   "id": 593,
+   "type": "message",
+   "date": "2020-07-07T19:41:46",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://blog.golang.org/generate"
+    }
+   ]
+  },
+  {
+   "id": 595,
+   "type": "message",
+   "date": "2020-07-07T19:55:29",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://gophersnippets.com/"
+    }
+   ]
+  },
+  {
+   "id": 597,
+   "type": "message",
+   "date": "2020-07-07T21:23:58",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://git-send-email.io/"
+    }
+   ]
+  },
+  {
+   "id": 599,
+   "type": "message",
+   "date": "2020-07-08T07:22:59",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://apps.nextcloud.com/apps/notes"
+    }
+   ]
+  },
+  {
+   "id": 601,
+   "type": "message",
+   "date": "2020-07-08T15:34:32",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://devpost.com/"
+    }
+   ]
+  },
+  {
+   "id": 603,
+   "type": "message",
+   "date": "2020-07-08T19:34:52",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://abstractxan.xyz/site/microservices"
+    }
+   ]
+  },
+  {
+   "id": 605,
+   "type": "message",
+   "date": "2020-07-08T21:14:16",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://gokit.io/"
+    }
+   ]
+  },
+  {
+   "id": 607,
+   "type": "message",
+   "date": "2020-07-08T21:24:27",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://metacademy.org"
+    }
+   ]
+  },
+  {
+   "id": 609,
+   "type": "message",
+   "date": "2020-07-08T21:28:20",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://cs007.blog"
+    }
+   ]
+  },
+  {
+   "id": 611,
+   "type": "message",
+   "date": "2020-07-09T20:19:51",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.couchbase.com/mongodb-redis"
+    }
+   ]
+  },
+  {
+   "id": 613,
+   "type": "message",
+   "date": "2020-07-10T09:18:25",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://try.redis.io/"
+    }
+   ]
+  },
+  {
+   "id": 615,
+   "type": "message",
+   "date": "2020-07-10T17:23:45",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.openmymind.net/2011/5/8/Practical-NoSQL-Solving-a-Real-Problem-w-Mongo-Red/"
+    }
+   ]
+  },
+  {
+   "id": 617,
+   "type": "message",
+   "date": "2020-07-10T21:18:26",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.cockroachlabs.com/docs/stable/"
+    }
+   ]
+  },
+  {
+   "id": 619,
+   "type": "message",
+   "date": "2020-07-10T21:22:25",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.freecodecamp.org/news/in-search-of-an-understandable-consensus-algorithm-a-summary-4bc294c97e0d/"
+    }
+   ]
+  },
+  {
+   "id": 621,
+   "type": "message",
+   "date": "2020-07-11T18:47:02",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://openpeeps.com/"
+    }
+   ]
+  },
+  {
+   "id": 623,
+   "type": "message",
+   "date": "2020-07-12T08:18:42",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://web.hypothes.is/about/"
+    }
+   ]
+  },
+  {
+   "id": 625,
+   "type": "message",
+   "date": "2020-07-12T08:23:45",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://webtorrent.io/"
+    }
+   ]
+  },
+  {
+   "id": 627,
+   "type": "message",
+   "date": "2020-07-12T10:19:07",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/"
+    }
+   ]
+  },
+  {
+   "id": 629,
+   "type": "message",
+   "date": "2020-07-12T10:26:50",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.bookmarks.design/"
+    }
+   ]
+  },
+  {
+   "id": 632,
+   "type": "message",
+   "date": "2020-07-12T19:03:34",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/user/briantwill"
+    }
+   ]
+  },
+  {
+   "id": 634,
+   "type": "message",
+   "date": "2020-07-13T10:09:08",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=U_gANjtv28g"
+    }
+   ]
+  },
+  {
+   "id": 636,
+   "type": "message",
+   "date": "2020-07-13T10:47:15",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://youtu.be/QM1iUe6IofM"
+    }
+   ]
+  },
+  {
+   "id": 638,
+   "type": "message",
+   "date": "2020-07-14T10:58:24",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    }
+   ]
+  },
+  {
+   "id": 639,
+   "type": "message",
+   "date": "2020-07-14T10:58:24",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.github.com/scutan90/DeepLearning-500-questions/tree/master/English%20version%2FREADME.md"
+    }
+   ]
+  },
+  {
+   "id": 641,
+   "type": "message",
+   "date": "2020-07-14T10:58:57",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.github.com/scutan90/DeepLearning-500-questions/tree/master/English%20version%2FREADME.md"
+    }
+   ]
+  },
+  {
+   "id": 643,
+   "type": "message",
+   "date": "2020-07-14T19:21:48",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/sundowndev/hacker-roadmap"
+    }
+   ]
+  },
+  {
+   "id": 645,
+   "type": "message",
+   "date": "2020-07-14T21:50:11",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/sehacure?lang=en"
+    }
+   ]
+  },
+  {
+   "id": 647,
+   "type": "message",
+   "date": "2020-07-15T07:53:08",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/ginuerzh/gost/blob/master/README_en.md"
+    }
+   ]
+  },
+  {
+   "id": 649,
+   "type": "message",
+   "date": "2020-07-15T08:03:12",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://ngrok.com/"
+    }
+   ]
+  },
+  {
+   "id": 651,
+   "type": "message",
+   "date": "2020-07-15T08:34:51",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://cerebroapp.com/"
+    }
+   ]
+  },
+  {
+   "id": 653,
+   "type": "message",
+   "date": "2020-07-15T19:51:07",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/"
+    }
+   ]
+  },
+  {
+   "id": 655,
+   "type": "message",
+   "date": "2020-07-15T21:29:46",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://error404.fun/"
+    }
+   ]
+  },
+  {
+   "id": 657,
+   "type": "message",
+   "date": "2020-07-16T12:34:50",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://securityboulevard.com/2019/03/how-watering-hole-attacks-target-the-financial-sector-and-government-agencies/"
+    }
+   ]
+  },
+  {
+   "id": 659,
+   "type": "message",
+   "date": "2020-07-16T17:17:28",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.deviceinfo.me/"
+    }
+   ]
+  },
+  {
+   "id": 661,
+   "type": "message",
+   "date": "2020-07-16T17:22:25",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://amiunique.org/"
+    }
+   ]
+  },
+  {
+   "id": 663,
+   "type": "message",
+   "date": "2020-07-17T09:38:22",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://web.archive.org/web/20161019110836/http://www.aaronsw.com/weblog/productivity"
+    }
+   ]
+  },
+  {
+   "id": 665,
+   "type": "message",
+   "date": "2020-07-17T10:00:53",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=U3RkDLtS7uY"
+    }
+   ]
+  },
+  {
+   "id": 667,
+   "type": "message",
+   "date": "2020-07-17T18:59:39",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://resources.infosecinstitute.com/mitre-attck-vulnerability-timestomping/#gref"
+    }
+   ]
+  },
+  {
+   "id": 669,
+   "type": "message",
+   "date": "2020-07-17T19:35:28",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.csoonline.com/article/3218104/what-is-stuxnet-who-created-it-and-how-does-it-work.html"
+    }
+   ]
+  },
+  {
+   "id": 671,
+   "type": "message",
+   "date": "2020-07-17T19:39:19",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://medium.com/@warren2lynch/business-model-canvas-learn-by-examples-with-free-online-software-474a872a9bcd"
+    }
+   ]
+  },
+  {
+   "id": 673,
+   "type": "message",
+   "date": "2020-07-17T21:20:38",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.varonis.com/blog/what-is-a-ddos-attack/"
+    }
+   ]
+  },
+  {
+   "id": 675,
+   "type": "message",
+   "date": "2020-07-18T07:55:35",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/coursera-dl/coursera-dl"
+    }
+   ]
+  },
+  {
+   "id": 677,
+   "type": "message",
+   "date": "2020-07-18T08:38:26",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://developer.ibm.com/"
+    }
+   ]
+  },
+  {
+   "id": 679,
+   "type": "message",
+   "date": "2020-07-18T08:38:40",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.mysqltutorial.org/"
+    }
+   ]
+  },
+  {
+   "id": 681,
+   "type": "message",
+   "date": "2020-07-18T10:07:26",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.thesecuritybuddy.com/dos-ddos-prevention/iot-botnet-and-ddos-attacks/"
+    }
+   ]
+  },
+  {
+   "id": 683,
+   "type": "message",
+   "date": "2020-07-18T10:15:30",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.ionos.com/digitalguide/server/security/rainbow-tables/"
+    }
+   ]
+  },
+  {
+   "id": 686,
+   "type": "message",
+   "date": "2020-07-18T10:42:05",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": "ALL SAVED AND SYNCED"
+  },
+  {
+   "id": 687,
+   "type": "message",
+   "date": "2020-07-18T21:22:09",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html"
+    }
+   ]
+  },
+  {
+   "id": 689,
+   "type": "message",
+   "date": "2020-07-19T09:20:27",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://icons8.com"
+    }
+   ]
+  },
+  {
+   "id": 691,
+   "type": "message",
+   "date": "2020-07-19T10:30:50",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.mica.edu.vn/perso/Vu-Hai/EE3490/Ref/The%20C++Standard%20Library%20-%202nd%20Edition.pdf"
+    }
+   ]
+  },
+  {
+   "id": 693,
+   "type": "message",
+   "date": "2020-07-19T10:31:35",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://libgen.lc/ads.php?md5=3f232898efb332044c9335ea515fdd0f"
+    }
+   ]
+  },
+  {
+   "id": 695,
+   "type": "message",
+   "date": "2020-07-19T19:07:23",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://learnbyexample.gitbooks.io/linux-command-line/content/Working_with_Files_and_Directories.html#text-editors"
+    }
+   ]
+  },
+  {
+   "id": 697,
+   "type": "message",
+   "date": "2020-07-20T07:08:28",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PL6D474E721138865A"
+    }
+   ]
+  },
+  {
+   "id": 699,
+   "type": "message",
+   "date": "2020-07-21T20:39:23",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://gophersgo.blogspot.com/2020/07/skill-set-for-golang-developer.html"
+    }
+   ]
+  },
+  {
+   "id": 701,
+   "type": "message",
+   "date": "2020-07-21T20:39:30",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://ewanvalentine.io/microservices-in-golang-part-1/"
+    }
+   ]
+  },
+  {
+   "id": 703,
+   "type": "message",
+   "date": "2020-07-21T21:58:55",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/jwasham/coding-interview-university"
+    }
+   ]
+  },
+  {
+   "id": 705,
+   "type": "message",
+   "date": "2020-07-22T19:01:12",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/"
+    }
+   ]
+  },
+  {
+   "id": 707,
+   "type": "message",
+   "date": "2020-07-22T19:01:38",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.openmymind.net/redis.pdf"
+    }
+   ]
+  },
+  {
+   "id": 709,
+   "type": "message",
+   "date": "2020-07-23T22:04:23",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.benkuhn.net/progessays/"
+    }
+   ]
+  },
+  {
+   "id": 711,
+   "type": "message",
+   "date": "2020-07-24T16:30:16",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLCRqvOk_BGhVi_mT_urqoJqcndJkf2lDS"
+    }
+   ]
+  },
+  {
+   "id": 713,
+   "type": "message",
+   "date": "2020-07-26T11:13:22",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://blog.sixeyed.com/"
+    }
+   ]
+  },
+  {
+   "id": 715,
+   "type": "message",
+   "date": "2020-07-26T11:44:02",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://stackoverflow.blog/2020/07/24/the-perils-of-impersonation-tooling/"
+    }
+   ]
+  },
+  {
+   "id": 717,
+   "type": "message",
+   "date": "2020-07-26T18:58:20",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://sansforgetica.rmit/"
+    }
+   ]
+  },
+  {
+   "id": 719,
+   "type": "message",
+   "date": "2020-07-26T19:29:15",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://sdtimes.com/containers/stuck-new-devops-matrix-hell/"
+    }
+   ]
+  },
+  {
+   "id": 721,
+   "type": "message",
+   "date": "2020-07-27T17:40:46",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://systemsthatscale.org/"
+    }
+   ]
+  },
+  {
+   "id": 723,
+   "type": "message",
+   "date": "2020-07-27T17:58:17",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md#12-vector-stdvector"
+    }
+   ]
+  },
+  {
+   "id": 725,
+   "type": "message",
+   "date": "2020-07-27T23:01:10",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://websocketd.com/"
+    }
+   ]
+  },
+  {
+   "id": 727,
+   "type": "message",
+   "date": "2020-07-27T23:11:28",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.goodemailcopy.com/"
+    }
+   ]
+  },
+  {
+   "id": 729,
+   "type": "message",
+   "date": "2020-07-27T23:11:40",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://marketingexamples.com/"
+    }
+   ]
+  },
+  {
+   "id": 731,
+   "type": "message",
+   "date": "2020-07-29T10:14:27",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "mek.fyi/hope"
+    }
+   ]
+  },
+  {
+   "id": 733,
+   "type": "message",
+   "date": "2020-07-29T11:01:13",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.openvim.com/"
+    }
+   ]
+  },
+  {
+   "id": 743,
+   "type": "message",
+   "date": "2020-07-29T18:01:02",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://learn.hashicorp.com/terraform?fbclid=IwAR05PSUFYieXCYEAyRGYAEsueBBF7CzYRNW0QqLbBQcs9oPz1PihkfHrPsg"
+    }
+   ]
+  },
+  {
+   "id": 749,
+   "type": "message",
+   "date": "2020-07-29T18:50:12",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.educba.com/redis-vs-kafka/"
+    }
+   ]
+  },
+  {
+   "id": 758,
+   "type": "service",
+   "date": "2020-07-29T20:16:03",
+   "actor": "Sangule",
+   "actor_id": 1011026537,
+   "action": "invite_members",
+   "members": [
+    "Saishradha"
+   ],
+   "text": ""
+  },
+  {
+   "id": 761,
+   "type": "message",
+   "date": "2020-07-29T21:51:36",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/portainer/portainer"
+    }
+   ]
+  },
+  {
+   "id": 763,
+   "type": "message",
+   "date": "2020-07-30T07:21:00",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://adamtheautomator.com/how-to-add-voice-to-your-powershell-scripts/"
+    }
+   ]
+  },
+  {
+   "id": 765,
+   "type": "message",
+   "date": "2020-07-30T07:53:21",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://searchitoperations.techtarget.com/tip/On-Windows-PowerShell-vs-Bash-comparison-gets-interesting"
+    }
+   ]
+  },
+  {
+   "id": 768,
+   "type": "message",
+   "date": "2020-07-30T07:53:56",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://pediaa.com/difference-between-powershell-and-cmd/"
+    }
+   ]
+  },
+  {
+   "id": 770,
+   "type": "message",
+   "date": "2020-07-30T09:34:55",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://en.toolpage.org/"
+    }
+   ]
+  },
+  {
+   "id": 772,
+   "type": "message",
+   "date": "2020-07-30T09:48:42",
+   "from": "Saishradha",
+   "from_id": 1302444887,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://vowpalwabbit.org/tutorials/contextual_bandits.html"
+    }
+   ]
+  },
+  {
+   "id": 773,
+   "type": "message",
+   "date": "2020-07-30T09:49:10",
+   "from": "Saishradha",
+   "from_id": 1302444887,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://vowpalwabbit.org/tutorials/cb_simulation.html"
+    }
+   ]
+  },
+  {
+   "id": 774,
+   "type": "message",
+   "date": "2020-07-30T09:50:41",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://vowpalwabbit.org/tutorials/cb_simulation.html"
+    }
+   ]
+  },
+  {
+   "id": 782,
+   "type": "message",
+   "date": "2020-07-30T09:54:16",
+   "from": "Saishradha",
+   "from_id": 1302444887,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://m.youtube.com/watch?v=mi_G5tw7Etg"
+    }
+   ]
+  },
+  {
+   "id": 784,
+   "type": "message",
+   "date": "2020-07-30T10:14:00",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5"
+    }
+   ]
+  },
+  {
+   "id": 786,
+   "type": "message",
+   "date": "2020-07-31T09:28:16",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://levelup.gitconnected.com/how-to-stay-relevant-and-get-tech-companies-to-beg-you-to-work-for-them-2e3ea445454f"
+    }
+   ]
+  },
+  {
+   "id": 788,
+   "type": "message",
+   "date": "2020-07-31T11:35:40",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://smerity.com/articles/2012/salting_with_usernames.html"
+    }
+   ]
+  },
+  {
+   "id": 790,
+   "type": "message",
+   "date": "2020-08-01T13:47:19",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/"
+    }
+   ]
+  },
+  {
+   "id": 792,
+   "type": "message",
+   "date": "2020-08-01T23:44:30",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.lukemelia.com/blog/archives/2010/01/17/redis-in-practice-whos-online/"
+    }
+   ]
+  },
+  {
+   "id": 794,
+   "type": "message",
+   "date": "2020-08-02T17:39:35",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://maggieappleton.com/"
+    }
+   ]
+  },
+  {
+   "id": 796,
+   "type": "message",
+   "date": "2020-08-04T09:45:08",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://exercism.io/"
+    }
+   ]
+  },
+  {
+   "id": 798,
+   "type": "message",
+   "date": "2020-08-04T09:58:38",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/iamadamdev/bypass-paywalls-chrome"
+    }
+   ]
+  },
+  {
+   "id": 800,
+   "type": "message",
+   "date": "2020-08-05T17:55:56",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://waitwho.is/"
+    }
+   ]
+  },
+  {
+   "id": 802,
+   "type": "message",
+   "date": "2020-08-06T18:56:43",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://breakintopm.substack.com/p/5-tips-to-nail-your-product-manager"
+    }
+   ]
+  },
+  {
+   "id": 804,
+   "type": "message",
+   "date": "2020-08-06T19:21:23",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/channel/UC8fgtKyHY0rGn68agz7vgtQ/videos"
+    }
+   ]
+  },
+  {
+   "id": 806,
+   "type": "message",
+   "date": "2020-08-07T18:34:00",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.serverless.com/framework/docs/providers/aws/guide/functions/#environment-variables"
+    }
+   ]
+  },
+  {
+   "id": 808,
+   "type": "message",
+   "date": "2020-08-08T10:57:35",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://supernotes.app/"
+    }
+   ]
+  },
+  {
+   "id": 810,
+   "type": "message",
+   "date": "2020-08-08T11:23:29",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "http://blog.cleancoder.com/"
+    }
+   ]
+  },
+  {
+   "id": 812,
+   "type": "message",
+   "date": "2020-08-09T19:30:32",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://tryhackme.com/"
+    }
+   ]
+  },
+  {
+   "id": 814,
+   "type": "message",
+   "date": "2020-08-09T19:37:51",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://systemdesignprep.com/home"
+    }
+   ]
+  },
+  {
+   "id": 816,
+   "type": "message",
+   "date": "2020-08-10T08:21:31",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://artsexperiments.withgoogle.com/ocean-of-books?latitude=-43.2000&longitude=-2.5000&zoom=3.70"
+    }
+   ]
+  },
+  {
+   "id": 818,
+   "type": "message",
+   "date": "2020-08-10T15:01:16",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=hQd4TCGB_nE&list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B&index=1"
+    }
+   ]
+  },
+  {
+   "id": 820,
+   "type": "message",
+   "date": "2020-08-10T17:51:26",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://books.google.co.in/books/about/Design_Patterns.html?id=6oHuKQe3TjQC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false"
+    }
+   ]
+  },
+  {
+   "id": 822,
+   "type": "message",
+   "date": "2020-08-10T17:53:22",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07"
+    }
+   ]
+  },
+  {
+   "id": 824,
+   "type": "message",
+   "date": "2020-08-11T10:53:38",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://machinelearningflashcards.com/"
+    }
+   ]
+  },
+  {
+   "id": 826,
+   "type": "message",
+   "date": "2020-08-12T14:35:05",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.osboxes.org/"
+    }
+   ]
+  },
+  {
+   "id": 828,
+   "type": "message",
+   "date": "2020-08-12T17:31:31",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://sitemod.io/"
+    }
+   ]
+  },
+  {
+   "id": 830,
+   "type": "message",
+   "date": "2020-08-12T19:50:02",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=W3tQPk8DNbk"
+    }
+   ]
+  },
+  {
+   "id": 832,
+   "type": "message",
+   "date": "2020-08-12T21:23:14",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://30secondsofknowledge.com/"
+    }
+   ]
+  },
+  {
+   "id": 834,
+   "type": "message",
+   "date": "2020-08-13T09:08:47",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://medium.com/@rafaelvidaurre/truly-understanding-async-await-491dd580500e"
+    }
+   ]
+  },
+  {
+   "id": 841,
+   "type": "message",
+   "date": "2020-08-13T16:46:06",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://blog.praveen.science/oh-my-zsh-cheat-sheet/"
+    }
+   ]
+  },
+  {
+   "id": 847,
+   "type": "message",
+   "date": "2020-08-14T19:48:14",
+   "from": "Saishradha",
+   "from_id": 1302444887,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://blog.re-work.co/must-read-ai-papers-suggested-by-experts-part-2/amp/"
+    }
+   ]
+  },
+  {
+   "id": 849,
+   "type": "message",
+   "date": "2020-08-14T20:59:42",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://hvops.com/articles/ansible-vs-shell-scripts/"
+    }
+   ]
+  },
+  {
+   "id": 851,
+   "type": "message",
+   "date": "2020-08-14T21:01:25",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://medium.com/james-reads-public-cloud-technology-blog/3x-ansible-tips-to-make-your-life-easier-when-writing-playbooks-quickly-cfd32f64171"
+    }
+   ]
+  },
+  {
+   "id": 853,
+   "type": "message",
+   "date": "2020-08-16T09:06:28",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4"
+    }
+   ]
+  },
+  {
+   "id": 855,
+   "type": "message",
+   "date": "2020-08-16T18:04:16",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://radreads.co/10k-work/"
+    }
+   ]
+  },
+  {
+   "id": 857,
+   "type": "message",
+   "date": "2020-08-18T14:52:41",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/channel/UCrl5xG-L4ZCFkR-bhUy9BVg"
+    }
+   ]
+  },
+  {
+   "id": 859,
+   "type": "message",
+   "date": "2020-08-18T19:25:04",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://serversforhackers.com/c/an-ansible2-tutorial"
+    }
+   ]
+  },
+  {
+   "id": 861,
+   "type": "message",
+   "date": "2020-08-18T23:03:32",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.conventionalcommits.org/en/v1.0.0/"
+    }
+   ]
+  },
+  {
+   "id": 863,
+   "type": "message",
+   "date": "2020-08-19T05:47:25",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://github.com/labuladong/fucking-algorithm/tree/english"
+    }
+   ]
+  },
+  {
+   "id": 865,
+   "type": "message",
+   "date": "2020-08-19T10:02:19",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " \n",
+    {
+     "type": "link",
+     "text": "https://youtu.be/Gjnup-PuquQ"
+    }
+   ]
+  },
+  {
+   "id": 867,
+   "type": "message",
+   "date": "2020-08-19T16:05:52",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=wlR5gYd6um0"
+    }
+   ]
+  },
+  {
+   "id": 869,
+   "type": "message",
+   "date": "2020-08-20T17:51:18",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://decodility.wordpress.com/"
+    }
+   ]
+  },
+  {
+   "id": 871,
+   "type": "message",
+   "date": "2020-08-27T19:49:26",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/ifttt"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://learn.openshift.com/playgrounds/openshift44"
+    }
+   ]
+  },
+  {
+   "id": 873,
+   "type": "message",
+   "date": "2020-08-31T18:02:58",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Games,GameJam,Javascript,",
+    {
+     "type": "link",
+     "text": "https://js13kgames.com"
+    }
+   ]
+  },
+  {
+   "id": 874,
+   "type": "message",
+   "date": "2020-09-01T14:26:13",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Devtool,Data,,",
+    {
+     "type": "link",
+     "text": "https://airtable.com"
+    }
+   ]
+  },
+  {
+   "id": 875,
+   "type": "message",
+   "date": "2020-09-01T18:18:28",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "DevOps,Tool,Kubernetes\n",
+    {
+     "type": "link",
+     "text": "https://github.com/cncf/curriculum"
+    }
+   ]
+  },
+  {
+   "id": 876,
+   "type": "message",
+   "date": "2020-09-01T20:56:18",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "NLP,Go, ,\n",
+    {
+     "type": "link",
+     "text": "https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/"
+    }
+   ]
+  },
+  {
+   "id": 877,
+   "type": "message",
+   "date": "2020-09-04T08:01:40",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Portfolio,Tutorials,,",
+    {
+     "type": "link",
+     "text": "https://wintermutedigital.com"
+    }
+   ]
+  },
+  {
+   "id": 878,
+   "type": "message",
+   "date": "2020-09-05T11:56:13",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool, , ,\n",
+    {
+     "type": "link",
+     "text": "https://github.com/yoda-pa/yoda"
+    }
+   ]
+  },
+  {
+   "id": 879,
+   "type": "message",
+   "date": "2020-09-05T16:14:25",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Automation,Scripting,Ops Technology\n",
+    {
+     "type": "link",
+     "text": "https://dev.to/thementor/i-run-powershell-on-android-and-so-can-you-458k"
+    }
+   ]
+  },
+  {
+   "id": 880,
+   "type": "message",
+   "date": "2020-09-06T13:51:53",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    "QuantifiedSelf,Tools,Automation,",
+    {
+     "type": "link",
+     "text": "https://beepb00p.xyz/myinfra.html"
+    }
+   ]
+  },
+  {
+   "id": 881,
+   "type": "message",
+   "date": "2020-09-06T20:21:49",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "ML,Data Analytics,Excel,",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLlz0muypSBNbd6VbNdU9cCzCQx8_dU7Hy"
+    }
+   ]
+  },
+  {
+   "id": 882,
+   "type": "message",
+   "date": "2020-09-09T09:06:20",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Browser,Vim,,",
+    {
+     "type": "link",
+     "text": "https://qutebrowser.org/"
+    }
+   ]
+  },
+  {
+   "id": 883,
+   "type": "message",
+   "date": "2020-09-09T10:31:11",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool, Productivity, ,\n",
+    {
+     "type": "link",
+     "text": "https://codeburst.io/here-are-some-vs-code-keyboard-shortcuts-for-you-now-stop-using-mouse-84ae38602114"
+    }
+   ]
+  },
+  {
+   "id": 884,
+   "type": "message",
+   "date": "2020-09-09T11:01:30",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Collection,Tools,Shortcuts\n",
+    {
+     "type": "link",
+     "text": "https://gnulinux.guru/"
+    }
+   ]
+  },
+  {
+   "id": 885,
+   "type": "message",
+   "date": "2020-09-09T13:33:10",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Javascript,Tutorial,,",
+    {
+     "type": "link",
+     "text": "https://dev.to/ryanameri/mastering-hard-parts-of-javascript-callbacks-i-3aj0"
+    }
+   ]
+  },
+  {
+   "id": 886,
+   "type": "message",
+   "date": "2020-09-09T21:30:09",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Collection,Computer,Scala\n",
+    {
+     "type": "link",
+     "text": "https://github.com/lauris/awesome-scala#graphical-user-interfaces"
+    }
+   ]
+  },
+  {
+   "id": 887,
+   "type": "message",
+   "date": "2020-09-10T07:50:25",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Collection,FOSS,,",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/channel/UCnZZ6pbDqyZjALOLZo40yXg"
+    }
+   ]
+  },
+  {
+   "id": 888,
+   "type": "message",
+   "date": "2020-09-10T22:35:49",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool,Productivity,,\n",
+    {
+     "type": "link",
+     "text": "https://habitica.com/static/home"
+    }
+   ]
+  },
+  {
+   "id": 889,
+   "type": "message",
+   "date": "2020-09-11T19:06:48",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool,Vim,Productivity\n",
+    {
+     "type": "link",
+     "text": "https://youtu.be/65Wq4fjREUU"
+    }
+   ]
+  },
+  {
+   "id": 890,
+   "type": "message",
+   "date": "2020-09-11T23:45:35",
+   "from": "Siddish",
+   "from_id": 813468163,
+   "text": [
+    "notes,PKM,rabbithole,",
+    {
+     "type": "link",
+     "text": "https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/"
+    }
+   ]
+  },
+  {
+   "id": 891,
+   "type": "message",
+   "date": "2020-09-12T07:03:15",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Collection,Clean Code, ,\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=7EmboKQH8lM"
+    }
+   ]
+  },
+  {
+   "id": 892,
+   "type": "message",
+   "date": "2020-09-12T10:12:49",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "DevOps,Kubernetes,Playground\n",
+    {
+     "type": "link",
+     "text": "https://labs.play-with-k8s.com/"
+    }
+   ]
+  },
+  {
+   "id": 893,
+   "type": "message",
+   "date": "2020-09-12T11:16:32",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Vim,,,",
+    {
+     "type": "link",
+     "text": "https://vimawesome.com"
+    }
+   ]
+  },
+  {
+   "id": 894,
+   "type": "message",
+   "date": "2020-09-13T11:24:45",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Monitor,,Guide,",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=9ZwCDBBwSdU"
+    }
+   ]
+  },
+  {
+   "id": 895,
+   "type": "message",
+   "date": "2020-09-13T16:51:14",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Automation,DevOps,Ansible\n",
+    {
+     "type": "link",
+     "text": "https://geekflare.com/ansible-ad-hoc-command/"
+    }
+   ]
+  },
+  {
+   "id": 896,
+   "type": "message",
+   "date": "2020-09-13T21:19:57",
+   "edited": "2020-09-13T21:20:09",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Mozilla,Talk,,",
+    {
+     "type": "link",
+     "text": "http://dream.netizen.org/events.html"
+    }
+   ]
+  },
+  {
+   "id": 897,
+   "type": "message",
+   "date": "2020-09-14T10:16:50",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Vim,Tutorial,,",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=E-ZbrtoSuzw"
+    }
+   ]
+  },
+  {
+   "id": 898,
+   "type": "message",
+   "date": "2020-09-14T13:32:04",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Architecture,Design, ,\n",
+    {
+     "type": "link",
+     "text": "https://virtualizationreview.com/Articles/2015/06/01/High-Availability.aspx?m=1&Page=1"
+    }
+   ]
+  },
+  {
+   "id": 899,
+   "type": "message",
+   "date": "2020-09-14T20:52:16",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool,Excel,,\n",
+    {
+     "type": "link",
+     "text": "https://www.freecodecamp.org/news/excel-vba-tutorial/"
+    }
+   ]
+  },
+  {
+   "id": 900,
+   "type": "message",
+   "date": "2020-09-17T05:54:10",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool,Vim,Windows\n",
+    {
+     "type": "link",
+     "text": "https://github.com/hsab/WSL-config"
+    }
+   ]
+  },
+  {
+   "id": 901,
+   "type": "message",
+   "date": "2020-09-17T13:21:22",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Javascript,Testing,,",
+    {
+     "type": "link",
+     "text": "https://dev.to/gabrieltanner/an-introduction-to-testing-in-javascript-54jc"
+    }
+   ]
+  },
+  {
+   "id": 902,
+   "type": "message",
+   "date": "2020-09-18T22:39:08",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool,Vim,Plugins\n",
+    {
+     "type": "link",
+     "text": "https://vim.fandom.com/wiki/Use_Vim_like_an_IDE"
+    }
+   ]
+  },
+  {
+   "id": 903,
+   "type": "message",
+   "date": "2020-09-20T12:00:24",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Dev-Stuff,Java,Spring\n",
+    {
+     "type": "link",
+     "text": "https://java2blog.com/spring-mvc-tutorial/"
+    }
+   ]
+  },
+  {
+   "id": 904,
+   "type": "message",
+   "date": "2020-09-20T12:00:54",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Dev-Stuff,Java,Spring\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7"
+    }
+   ]
+  },
+  {
+   "id": 905,
+   "type": "message",
+   "date": "2020-09-20T12:41:51",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Portfolio,Rabbithole,,",
+    {
+     "type": "link",
+     "text": "http://everest-pipkin.com/#"
+    }
+   ]
+  },
+  {
+   "id": 906,
+   "type": "message",
+   "date": "2020-09-20T18:26:39",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Dev-Stuff,Java,Spring\n",
+    {
+     "type": "link",
+     "text": "https://start.spring.io/"
+    }
+   ]
+  },
+  {
+   "id": 907,
+   "type": "message",
+   "date": "2020-09-21T11:32:35",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Keyboard,MacOS,,",
+    {
+     "type": "link",
+     "text": "https://karabiner-elements.pqrs.org"
+    }
+   ]
+  },
+  {
+   "id": 908,
+   "type": "message",
+   "date": "2020-09-21T13:11:52",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Collection,Javascript,,",
+    {
+     "type": "link",
+     "text": "https://javascript.info"
+    }
+   ]
+  },
+  {
+   "id": 909,
+   "type": "message",
+   "date": "2020-09-21T15:37:58",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Computers,Networks,Comics\n",
+    {
+     "type": "link",
+     "text": "https://howhttps.works/why-do-we-need-https/"
+    }
+   ]
+  },
+  {
+   "id": 910,
+   "type": "message",
+   "date": "2020-09-21T18:14:13",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "ToolHelp,,,\n",
+    {
+     "type": "link",
+     "text": "https://nesslabs.com/how-to-choose-the-right-note-taking-app"
+    }
+   ]
+  },
+  {
+   "id": 911,
+   "type": "message",
+   "date": "2020-09-23T09:52:39",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Programming,C++,Makefile,",
+    {
+     "type": "link",
+     "text": "http://www.gnu.org/software/make/manual/make.html#Introduction"
+    }
+   ]
+  },
+  {
+   "id": 912,
+   "type": "message",
+   "date": "2020-09-23T20:42:09",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Scripting,,,\n",
+    {
+     "type": "link",
+     "text": "https://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/"
+    }
+   ]
+  },
+  {
+   "id": 913,
+   "type": "message",
+   "date": "2020-09-24T07:10:46",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Redux,React,,",
+    {
+     "type": "link",
+     "text": "https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3"
+    }
+   ]
+  },
+  {
+   "id": 914,
+   "type": "message",
+   "date": "2020-09-24T13:00:53",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Programming,C++,Make\n",
+    {
+     "type": "link",
+     "text": "http://makefiletutorial.com"
+    }
+   ]
+  },
+  {
+   "id": 915,
+   "type": "message",
+   "date": "2020-09-24T13:08:16",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Programming,C++,Make\n",
+    {
+     "type": "link",
+     "text": "http://nuclear.mutantstargoat.com/articles/make/"
+    }
+   ]
+  },
+  {
+   "id": 917,
+   "type": "message",
+   "date": "2020-09-24T22:51:17",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Collection,,,",
+    {
+     "type": "link",
+     "text": "https://a11yresources.webflow.io"
+    }
+   ]
+  },
+  {
+   "id": 918,
+   "type": "message",
+   "date": "2020-09-25T07:09:49",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Javascript,Latex,,",
+    {
+     "type": "link",
+     "text": "https://latex.js.org"
+    }
+   ]
+  },
+  {
+   "id": 919,
+   "type": "message",
+   "date": "2020-09-25T07:15:59",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Latex,Math,HTML,",
+    {
+     "type": "link",
+     "text": "https://www.mecharithm.com/latex-to-html/"
+    }
+   ]
+  },
+  {
+   "id": 920,
+   "type": "message",
+   "date": "2020-09-25T07:58:10",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "JavaScript,Time,Moment\n",
+    {
+     "type": "link",
+     "text": "https://github.com/iamkun/dayjs"
+    }
+   ]
+  },
+  {
+   "id": 921,
+   "type": "message",
+   "date": "2020-09-25T11:18:13",
+   "from": "Sangule",
+   "from_id": 1011026537,
+   "text": [
+    "Serverless,Netlify,,",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=drJwMlD9Mjo"
+    }
+   ]
+  },
+  {
+   "id": 922,
+   "type": "message",
+   "date": "2020-09-25T19:38:31",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Game,Unity,Dev Stuff\n",
+    {
+     "type": "link",
+     "text": "https://learn.unity.com/project/beginner-gameplay-scripting"
+    }
+   ]
+  },
+  {
+   "id": 923,
+   "type": "message",
+   "date": "2020-09-25T19:39:20",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Web,Unity,DevStuff\n\n",
+    {
+     "type": "link",
+     "text": "https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/"
+    }
+   ]
+  },
+  {
+   "id": 924,
+   "type": "message",
+   "date": "2020-09-26T10:38:07",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "CICD,GitHub Actions,,\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=eB0nUzAI7M8"
+    }
+   ]
+  },
+  {
+   "id": 926,
+   "type": "message",
+   "date": "2020-09-27T06:55:50",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Tool,Vim,,\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=Hd33Q0ZjZuk"
+    }
+   ]
+  },
+  {
+   "id": 927,
+   "type": "message",
+   "date": "2020-09-27T18:32:22",
+   "from": "RadOne",
+   "from_id": 1054858681,
+   "text": [
+    "Coding,CP,Concept\n",
+    {
+     "type": "link",
+     "text": "https://stackoverflow.com/questions/53678392/h-tree-using-recursion-python"
+    }
+   ]
+  }
+ ]
+}

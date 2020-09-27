@@ -13,6 +13,7 @@ def createRow(date, user, tags, link):
     return row
     
 def getTags(tagsText):
+    tagsText = tagsText.replace('\n','')
     tagsText.strip()
     tagList = tagsText.split(',')
     while( len(tagList) < 3 ):
