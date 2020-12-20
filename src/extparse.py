@@ -31,7 +31,7 @@ def getTags(tagsText):
         tagList.append('')
     return tagList[:4]
 
-outCSV = open("out.csv","w")
+outCSV = open("data.csv","w")
 outCSV.write('Date,User,Tag1,Tag2,Tag3,Link\n')    
 
 chats =client.get_messages(group_username, 10)

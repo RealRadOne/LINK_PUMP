@@ -1,4 +1,4 @@
-python3 client.py
+python3 extparse.py
 rm ../site/*
 rm mizi
 rm website.md
