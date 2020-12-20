@@ -1,3 +1,4 @@
+python3 client.py
 rm ../site/*
 rm mizi
 rm website.md
