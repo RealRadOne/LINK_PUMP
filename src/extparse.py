@@ -5,7 +5,7 @@ import json
 api_id = 2899
 api_hash = '36722c72256a24c1225de00eb6a1ca74'
 client = TelegramClient('session_name', api_id, api_hash).start()
-group_username = 'LDumpTest'
+group_username = 'link_dump'
 client.start()
 
 participants = client.get_participants(group_username)
@@ -31,10 +31,10 @@ def getTags(tagsText):
         tagList.append('')
     return tagList[:4]
 
-outCSV = open("data.csv","w")
+outCSV = open("data_dummy.csv","w")
 outCSV.write('Date,User,Tag1,Tag2,Tag3,Link\n')    
 
-chats =client.get_messages(group_username, 10)
+chats =client.get_messages(group_username, 100000)
 # n number of messages to be extracted
 # Get message id, message, sender id, reply to message id, and timestamp
 
