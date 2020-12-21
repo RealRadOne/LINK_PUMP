@@ -1,0 +1,514 @@
+Date,User,Tag1,Tag2,Tag3,Link
+2020-12-20 16:59:45+00:00,Abstractxan,OS,C,,https://github.com/klikaba/klika-os
+2020-12-19 14:05:18+00:00,RealRadOne,Network,Basics,, https://www.youtube.com/watch?v=QKfk7YFILws
+2020-12-19 06:34:06+00:00,None,Machine Coding, SDE Interview, https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg,
+2020-12-18 15:56:09+00:00,RealRadOne,Tools,BloodHound,, https://bloodhound.readthedocs.io/en/latest/index.html
+2020-12-18 15:47:35+00:00,RealRadOne,Terminal,CLI,CheatSheet, https://cheatography.com/boogie/cheat-sheets/windows-command-line/pdf/
+2020-12-18 06:54:01+00:00,siddish_ir,GIt,,,https://chris.beams.io/posts/git-commit/
+2020-12-18 02:32:31+00:00,RealRadOne,Scripting,Linux,,https://www.cyberciti.biz/open-source/command-line-hacks/linux-run-command-as-different-user/
+2020-12-18 01:10:44+00:00,RealRadOne,Scripting,Bash,,https://betterdev.blog/minimal-safe-bash-script-template/
+2020-12-17 01:33:10+00:00,RealRadOne,Networks,Basics,,https://youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG
+2020-12-16 14:59:28+00:00,RealRadOne,Azure,Services,Bastion, https://blog.ahasayen.com/introducing-azure-bastion/
+2020-12-15 23:32:52+00:00,RealRadOne,Programming,GC,,https://youtu.be/ZhbIReLe-r8
+2020-12-15 13:17:08+00:00,Abstractxan,Javascript,Library,,https://fullcalendar.io
+2020-12-15 08:11:15+00:00,siddish_ir,OOP,DesignPatterns,Tutorial,https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+2020-12-15 03:06:09+00:00,Abstractxan,None,,,
+2020-12-14 14:40:43+00:00,Abstractxan,Databases,,,https://www.youtube.com/watch?v=aYDBdevdwyQ
+2020-12-14 13:28:15+00:00,RealRadOne,Collection,Cybersecurity,PracticeSheets https://www.pentesterlab.com/exercises/web_for_pentester/course,
+2020-12-14 12:12:37+00:00,RealRadOne,Tools,Vim,, https://devhints.io/vimscript
+2020-12-14 12:10:04+00:00,siddish_ir,Collection,SystemDesign,Tutorial,https://www.codekarle.com/
+2020-12-14 04:47:14+00:00,Abstractxan,Rabbithole,Collection,,https://media.handmade-seattle.com/
+2020-12-13 16:12:02+00:00,RealRadOne,Tutorial,Bash,RexEgg, http://www.rexegg.com/
+2020-12-13 16:03:13+00:00,siddish_ir,Guide,SRE,DevOps,https://linkedin.github.io/school-of-sre/
+2020-12-13 13:41:28+00:00,Abstractxan,Vim,,,http://vimsheet.com
+2020-12-13 06:02:46+00:00,siddish_ir,Guide,OOP,Programming,http://principles-wiki.net/collections:ood_principle_language
+2020-12-13 05:59:30+00:00,RealRadOne,Tools,Excel,Lambda, https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546
+2020-12-12 16:49:39+00:00,RealRadOne,Tutorial,Config,Kali, https://www.kali.org/tutorials/kali-linux-android-linux-deploy/
+2020-12-12 05:53:49+00:00,RealRadOne,Tutorial,Config,,https://github.com/Re4son/kali-gemini-multistrap-config
+2020-12-11 14:57:43+00:00,RealRadOne,Tutorial,Networks,,https://youtu.be/qiQR5rTSshw
+2020-12-11 14:16:58+00:00,RealRadOne,Collection,STL,Tutorial, https://youtu.be/Bndkkt-xqls
+2020-12-11 07:39:27+00:00,siddish_ir,SystemDesign,Collection,Tutorial,http://highscalability.com/all-time-favorites/
+2020-12-10 14:12:28+00:00,RealRadOne,Collection.Tutorial,DevOps. https://github.com/stuartatmicrosoft/RedHatSummit2020,,
+2020-12-10 14:10:14+00:00,RealRadOne,Tools,Tutorial,ElasticCluster https://elasticluster.readthedocs.io/en/latest/,
+2020-12-10 06:08:31+00:00,Abstractxan,MachineLearning,Visualisation,,http://www.r2d3.us
+2020-12-09 15:01:02+00:00,Abstractxan,Databases,,,https://www.percona.com
+2020-12-09 00:08:33+00:00,RealRadOne,Git,,,https://git-scm.com/docs/git-credential-store
+2020-12-08 09:18:55+00:00,RealRadOne,Tutorial,SocketPogramming,,http://beej.us/guide/bgnet/html/
+2020-12-08 07:35:12+00:00,siddish_ir,Collection,DDIA,Roadmap,https://dancres.github.io/Pages/
+2020-12-08 07:22:25+00:00,Abstractxan,Collection,Computers,,https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye
+2020-12-07 17:10:32+00:00,siddish_ir,CLI,Guide,,https://clig.dev/
+2020-12-07 03:40:24+00:00,RealRadOne,Os,Mobian,Tutorial https://gitlab.com/mobian1/wiki,
+2020-12-07 03:30:39+00:00,RealRadOne,Os,Mobian,Tutorial http://whiteboard.ping.se/Android/Debian,
+2020-12-05 13:18:46+00:00,RealRadOne,Collection,Tutorials,Commands,https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl
+2020-12-05 13:07:23+00:00,RealRadOne,Collection,Tutorials,Commands,https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl
+2020-12-05 09:27:29+00:00,Abstractxan,None,,,
+2020-12-05 09:20:13+00:00,RealRadOne,Collection,CyberSecurity,Tutorial,https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw
+2020-12-05 03:46:41+00:00,algokun,Networking,Collection,,https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN
+2020-12-04 16:44:39+00:00,siddish_ir,Cybersecurity,Tools,Tutorial,https://anonymousplanet.github.io/thgtoa/guide.html
+2020-12-04 08:40:17+00:00,RealRadOne,Collection,CyberSecurity,,https://www.youtube.com/watch?v=JZN3JhoAdWo&list=PLLKT__MCUeiyxF54dBIkzEXT7h8NgqQUB
+2020-12-03 23:37:37+00:00,Abstractxan,Databases,Collection,,https://dbdb.io/
+2020-12-02 17:17:11+00:00,siddish_ir,Tools,notetalking,journal,https://jrnl.sh/
+2020-12-02 15:46:53+00:00,RealRadOne,Tools,NoteTaking,, https://www.giuspen.com/cherrytree
+2020-12-02 14:10:41+00:00,Abstractxan,Databases,Collection,,https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+2020-12-02 02:58:27+00:00,siddish_ir,Interview,Guide,Roadmap,https://rb.gy/qmbbin
+2020-12-02 02:45:54+00:00,siddish_ir,Collection,Interview,,https://www.youtube.com/playlist?list=PLLucmoeZjtMSl5kTg7IjPkVGy7kUEbqsG
+2020-12-02 02:45:04+00:00,siddish_ir,Colection,Interview,Behavioral,https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL
+2020-12-01 14:40:29+00:00,Abstractxan,Architecture,Visualisation,,https://c4model.com
+2020-12-01 13:21:14+00:00,Abstractxan,GCC,Programming,,https://www.geeksforgeeks.org/builtin-functions-gcc-compiler/
+2020-12-01 09:20:46+00:00,Abstractxan,Databases,Tutorial,,https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
+2020-12-01 05:43:23+00:00,RealRadOne,Tool,DigitalLogic,,http://www.cburch.com/logisim/
+2020-12-01 05:42:40+00:00,RealRadOne,Computers,Programming,,https://www.youtube.com/watch?v=QZwneRb-zqA&t=302s
+2020-12-01 05:42:12+00:00,RealRadOne,Collection,Databases,,https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
+2020-12-01 03:51:15+00:00,RealRadOne,Tool,Notetaking,,http://keepnote.org/
+2020-11-29 11:28:36+00:00,RealRadOne,DevOps,Kubernetes,,https://killer.sh/?fbclid=IwAR1nl-oEqzy6iAPWcp6r_67pbA4rm5PfqWlCR_fBf67VfYWV2l9mzu8JzYA
+2020-11-28 03:14:46+00:00,RealRadOne,Collection,,,https://free-for.dev
+2020-11-27 12:12:06+00:00,RealRadOne,SystemDesign,DDIA,, http://oss.lanjingdejia.com/file/2018/9/9ad24578de98433a8005fc6484f57985-Designing.DataIntensive.Applications.pdf
+2020-11-27 04:39:21+00:00,RealRadOne,Tools,IDE,Lens https://k8slens.dev/,
+2020-11-27 03:12:04+00:00,RealRadOne,Tools,Automation,VRA8, https://dailyhypervisor.com/category/vcac-tutorial/
+2020-11-27 03:08:46+00:00,RealRadOne,Collection,Tutorial,Pentesting, https://app.cybrary.it/
+2020-11-27 02:48:07+00:00,RealRadOne,Collection,Tutorial,Pentesting https://github.com/hmaverickadams/Beginner-Network-Pentesting,
+2020-11-26 12:11:50+00:00,RealRadOne,Tools,Cron,Ansible https://medium.com/@knoldus/opsinit-configuring-crontab-with-ansible-262d68ecc996,
+2020-11-25 16:44:48+00:00,algokun,Roadmap,Collection,,https://github.com/liuchong/awesome-roadmaps
+2020-11-25 16:33:37+00:00,algokun,DesignPatterns,Tutorial,,https://refactoring.guru/design-patterns/what-is-pattern
+2020-11-25 09:19:36+00:00,RealRadOne,Tools,Vim,SpaceVim,https://spacevim.org
+2020-11-24 15:05:09+00:00,algokun,Algorithms,NumberTheory,Math,https://codeforces.com/blog/entry/77137
+2020-11-24 05:11:31+00:00,Abstractxan,C++,GUI,,https://github.com/texus/TGUI
+2020-11-23 12:27:18+00:00,RealRadOne,Programming,Algorithms,,https://www.youtube.com/watch?v=o1eLKODSCqw
+2020-11-23 12:26:40+00:00,RealRadOne,Tool,Vim,Tutorials, https://www.vimfromscratch.com/articles/vim-folding/
+2020-11-23 12:26:15+00:00,RealRadOne,Programming,Web,WASM, https://youtu.be/-OTc0Ki7Sv0
+2020-11-22 14:48:47+00:00,RealRadOne,Tool,Engine,Jinja https://github.com/pantor/inja,
+2020-11-22 13:34:57+00:00,RealRadOne,Tools,VIm,VimScripting https://learnvimscriptthehardway.stevelosh.com/,
+2020-11-20 16:36:18+00:00,Abstractxan,OS,,,https://github.com/marvinborner/Melvix
+2020-11-20 15:23:19+00:00,algokun,Databases,,,https://www.kaggle.com/learn/advanced-sql
+2020-11-20 15:21:54+00:00,algokun,Databases,Tutorials,Recursion,https://youtu.be/2Fn0WAyZV0E?t=4158
+2020-11-19 07:14:05+00:00,RealRadOne,Tools,Notes,, https://turtlapp.com/
+2020-11-19 05:44:49+00:00,RealRadOne,Database,RethinkDB,, https://rethinkdb.com/
+2020-11-18 10:58:00+00:00,Abstractxan,Vim,,,https://vimconfig.com
+2020-11-18 06:47:52+00:00,Abstractxan,Databases,Tutorial,,https://www.youtube.com/watch?v=HubezKbFL7E
+2020-11-18 04:03:29+00:00,RealRadOne,Tools,Services,Linux, https://www.tecmint.com/create-new-service-units-in-systemd/
+2020-11-17 18:26:13+00:00,siddish_ir,Tools,Git,,https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/
+2020-11-16 15:07:57+00:00,RealRadOne,Tools,Vim,Note-Taking, https://github.com/xolox/vim-notes
+2020-11-16 13:16:09+00:00,Abstractxan,Diagrams,,,https://sequencediagram.org
+2020-11-12 11:54:50+00:00,algokun,Collection,Tutorial,Drawing,https://ralphammer.com/a-quick-beginners-guide-to-drawing/
+2020-11-09 13:23:28+00:00,RealRadOne,Bash,Tool,Tutorial, https://tiswww.case.edu/php/chet/bash/bashref.html
+2020-11-09 04:41:30+00:00,RealRadOne,Tools, DevOps, Ansible, https://github.com/ansible/ansible-lint
+2020-11-08 13:30:40+00:00,RealRadOne,Coding,Clean-Code,Typescript, https://github.com/labs42io/clean-code-typescript
+2020-11-08 04:36:21+00:00,RealRadOne,Coding,CP,,https://binarysearch.com/
+2020-11-07 15:27:50+00:00,RealRadOne,Tools,Templates,,https://videohive.net/category
+2020-11-07 10:53:07+00:00,RealRadOne,Productivity,DevTools,,https://coder.com/
+2020-11-05 15:21:10+00:00,RealRadOne,Random,Interview Experience,,https://leetcode.com/discuss/interview-experience/859710/SDE-AmazonReject-GoogleOffer
+2020-11-05 14:36:58+00:00,RealRadOne,Random,,,https://about.me/
+2020-11-05 03:46:38+00:00,RealRadOne,Collection,Azure,,https://github.com/MSRConnections/Azure-training-course
+2020-11-05 03:44:58+00:00,RealRadOne,Collection,Azure,,https://azureservices.io/#
+2020-11-04 13:24:04+00:00,RealRadOne,Tools,Terminal,Productivity,http://conqueringthecommandline.com/book
+2020-11-04 09:12:10+00:00,RealRadOne,Tools,Productivity,Coda, https://coda.io/welcome
+2020-11-03 05:57:05+00:00,RealRadOne,Automation, , SiteBoss https://www.asentria.com/blog/what-is-a-siteboss-how-does-it-work/,
+2020-11-02 14:08:14+00:00,Abstractxan,CORS,,,https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+2020-11-02 14:07:18+00:00,Abstractxan,CORS,Serverless,,https://www.serverless.com/blog/cors-api-gateway-survival-guide
+2020-11-02 00:11:21+00:00,RealRadOne,Automation,Ansible,Async https://www.middlewareinventory.com/blog/ansible-async/,
+2020-11-01 05:20:05+00:00,siddish_ir,Course,Distributed Computing,Guide,https://github.com/pingcap/talent-plan/
+2020-11-01 04:27:11+00:00,RealRadOne,Automation,Ansible,Tower https://docs.ansible.com/ansible-tower/latest/html/towerapi/api_ref.html,
+2020-10-31 12:33:00+00:00,Abstractxan,PDF,C,,http://www.eprg.org/pdfcorner/text2pdf/
+2020-10-31 05:41:55+00:00,RealRadOne,Tools,Vim,Config https://github.com/ChristianChiarulli/nvim,
+2020-10-28 10:40:37+00:00,RealRadOne,Dev-Stuff,WebAssembly,, https://www.youtube.com/watch?v=cbB3QEwWMlA
+2020-10-26 13:46:28+00:00,Abstractxan,Productivity,DevTools,,https://github.com/johannesjo/super-productivity
+2020-10-26 03:32:06+00:00,RealRadOne,Collections,Ansible,BestPractices https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html,
+2020-10-25 14:55:03+00:00,RealRadOne,Collections,Algorithms,Graphs https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions,
+2020-10-25 13:43:02+00:00,RealRadOne,Algorithms, General,, https://cs.stackexchange.com/questions/4914/why-cant-dfs-be-used-to-find-shortest-paths-in-unweighted-graphs
+2020-10-24 13:26:46+00:00,RealRadOne,Tools, Productivity, Debugging, https://github.com/Genymobile/scrcpy
+2020-10-24 13:21:46+00:00,Abstractxan,Docker,,,https://www.linuxserver.io
+2020-10-24 13:06:13+00:00,Abstractxan,SelfHosted,,,https://www.bookstackapp.com/
+2020-10-24 13:03:43+00:00,Abstractxan,P2P,,,https://ipfs.io
+2020-10-17 04:54:25+00:00,Abstractxan,Tools,Productivity,,https://plaintextproject.online/tools.html
+2020-10-16 09:14:19+00:00,RealRadOne,Automation,Ansible,ScheduledTasks, https://docs.ansible.com/ansible/latest/collections/community/windows/win_scheduled_task_module.html
+2020-10-16 08:57:46+00:00,algokun,Collection,Probability,Tutorials,https://seeing-theory.brown.edu/
+2020-10-15 13:13:05+00:00,RealRadOne,Devops,Kubernetes,Tutorials https://youtu.be/7bA0gTroJjw,
+2020-10-15 00:04:40+00:00,RealRadOne,Automation,PowerShell,,https://github.com/PowerShell/PowerShell-RFC
+2020-10-14 16:25:34+00:00,algokun,Collection,C++,STL,https://youtu.be/2olsGf6JIkU
+2020-10-11 12:42:03+00:00,Abstractxan,Devtool,C++,GUI,https://github.com/ocornut/imgui
+2020-10-11 11:44:19+00:00,algokun,Algorithms,,,https://algorithms-tour.stitchfix.com/
+2020-10-10 17:14:55+00:00,RealRadOne,Collection,Databases,Kafka,http://youtube.com/playlist?list=PL9sbKmQTkW04vtWYIQVzDRFaPVHQo8SLx&feature=share
+2020-10-10 05:45:11+00:00,Abstractxan,Kubernetes,Tutorial,,https://www.youtube.com/watch?v=90kZRyPcRZw
+2020-10-09 13:38:46+00:00,RealRadOne,Collection,Coding,, https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
+2020-10-09 10:11:46+00:00,RealRadOne,Data Structure,Skip List,, https://brilliant.org/wiki/skip-lists/#:~:text=The%20skip%20list%20is%20a
+2020-10-09 03:19:07+00:00,RealRadOne,Collection,System Design,, https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4
+2020-10-08 18:26:34+00:00,algokun,Hacking,apple,,https://samcurry.net/hacking-apple/
+2020-10-08 09:42:18+00:00,RealRadOne,Cloud,Azure,,https://www.whizlabs.com/blog/az-204-exam-preparation/
+2020-10-08 09:14:39+00:00,Abstractxan,Roadmap,Devops,,https://roadmap.sh/devops
+2020-10-08 06:18:35+00:00,algokun,Tool,status,chat,https://year.chat/
+2020-10-07 14:40:16+00:00,RealRadOne,Tool,Productivity,Windowshttps://www.youtube.com/watch?v=uWNpXOT-Zbo,
+2020-10-07 10:49:35+00:00,RealRadOne,Programming,Sort,Radix, https://youtu.be/ujb2CIWE8zY
+2020-10-06 00:41:50+00:00,RealRadOne,Dev-Stuff,Debugging,, https://jsbin.com/
+2020-10-05 09:12:15+00:00,siddish_ir,Git,ToolHelp,Tutorial,https://ohshitgit.com/
+2020-10-05 08:14:05+00:00,Abstractxan,Article.Compiler,C++,https://medium.com/@alitech_2017/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378,
+2020-10-05 07:05:01+00:00,Abstractxan,Portfolio,,,https://avanier.now.sh/
+2020-10-05 07:02:50+00:00,Abstractxan,Tools,TimeTracker,,https://gitlab.com/joshavanier/log
+2020-10-04 12:41:15+00:00,RealRadOne,CICD,Git,Unity https://thoughtbot.com/blog/how-to-git-with-unity,
+2020-10-03 12:23:34+00:00,algokun,Reading,Fastreading,,https://www.fready.co/blog/reading-techniques
+2020-10-03 08:05:07+00:00,RealRadOne,Collection,Tutorials,, https://www.qwiklabs.com/
+2020-10-03 04:06:42+00:00,RealRadOne,Databases,Redis,, https://www.slideshare.net/dvirsky/introduction-to-redis
+2020-10-02 16:59:51+00:00,siddish_ir,System Design,Collection,,https://docs.google.com/spreadsheets/u/0/d/17tmeNJfKBvVV3bG2fYlMpqTxUIfljqmnmkaeY6Xekuo/htmlview#gid=0
+2020-10-02 12:32:42+00:00,RealRadOne,System Design,Collection,,https://github.com/puncsky/system-design-and-architecture
+2020-10-02 03:48:45+00:00,siddish_ir,Tool,reddit,visualization, https://anvaka.github.io/sayit/?query=
+2020-09-30 15:16:59+00:00,Abstractxan,Kubernetes,ELI5,,https://speakerdeck.com/chrisshort/the-illustrated-childrens-guide-to-kubernetes
+2020-09-30 13:24:46+00:00,siddish_ir,Tools,money,QuantifiedSelf, https://www.reddit.com/r/personalfinance/wiki/tools
+2020-09-30 02:07:19+00:00,RealRadOne,Dev-Stuff,Tutorial,WASM,https://www.codeproject.com/Articles/5250727/Introduction-to-Web-Assembly-with-C-Cplusplus
+2020-09-29 17:18:21+00:00,algokun,Tool,,,https://url.dev/
+2020-09-29 08:32:27+00:00,siddish_ir,Tool,extension,history,  https://getmemex.com
+2020-09-29 07:32:15+00:00,algokun,Technology,,,https://www.youtube.com/watch?v=ZFP2sb28OGU&t=691s
+2020-09-28 15:28:26+00:00,Abstractxan,Productivity,,,https://todoist.com/productivity-methods
+2020-09-27 15:19:15+00:00,Abstractxan,Social Networking,,,
+2020-09-27 14:01:51+00:00,RealRadOne,None,,,
+2020-09-27 13:50:16+00:00,Abstractxan,None,,,
+2020-09-27 13:02:22+00:00,RealRadOne,Coding,CP,Concepthttps://stackoverflow.com/questions/53678392/h-tree-using-recursion-python,
+2020-09-27 01:25:50+00:00,RealRadOne,Tool,Vim,,https://www.youtube.com/watch?v=Hd33Q0ZjZuk
+2020-09-26 05:08:07+00:00,RealRadOne,CICD,GitHub Actions,,https://www.youtube.com/watch?v=eB0nUzAI7M8
+2020-09-25 14:09:20+00:00,RealRadOne,Web,Unity,DevStuffhttps://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/,
+2020-09-25 14:08:31+00:00,RealRadOne,Game,Unity,Dev Stuffhttps://learn.unity.com/project/beginner-gameplay-scripting,
+2020-09-25 05:48:13+00:00,Abstractxan,Serverless,Netlify,,https://www.youtube.com/watch?v=drJwMlD9Mjo
+2020-09-25 02:28:10+00:00,RealRadOne,JavaScript,Time,Momenthttps://github.com/iamkun/dayjs,
+2020-09-25 01:45:59+00:00,Abstractxan,Latex,Math,HTML,https://www.mecharithm.com/latex-to-html/
+2020-09-25 01:39:49+00:00,Abstractxan,Javascript,Latex,,https://latex.js.org
+2020-09-24 17:21:17+00:00,Abstractxan,Collection,,,https://a11yresources.webflow.io
+2020-09-24 07:38:16+00:00,RealRadOne,Programming,C++,Makehttp://nuclear.mutantstargoat.com/articles/make/,
+2020-09-24 07:30:53+00:00,RealRadOne,Programming,C++,Makehttp://makefiletutorial.com,
+2020-09-24 01:40:46+00:00,Abstractxan,Redux,React,,https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3
+2020-09-23 15:12:09+00:00,RealRadOne,Scripting,,,https://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/
+2020-09-23 04:22:39+00:00,Abstractxan,Programming,C++,Makefile,http://www.gnu.org/software/make/manual/make.html#Introduction
+2020-09-21 12:44:13+00:00,RealRadOne,ToolHelp,,,https://nesslabs.com/how-to-choose-the-right-note-taking-app
+2020-09-21 10:07:58+00:00,RealRadOne,Computers,Networks,Comicshttps://howhttps.works/why-do-we-need-https/,
+2020-09-21 07:41:52+00:00,Abstractxan,Collection,Javascript,,https://javascript.info
+2020-09-21 06:02:35+00:00,Abstractxan,Keyboard,MacOS,,https://karabiner-elements.pqrs.org
+2020-09-20 12:56:39+00:00,RealRadOne,Dev-Stuff,Java,Springhttps://start.spring.io/,
+2020-09-20 07:11:51+00:00,Abstractxan,Portfolio,Rabbithole,,http://everest-pipkin.com/#
+2020-09-20 06:30:54+00:00,RealRadOne,Dev-Stuff,Java,Springhttps://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7,
+2020-09-20 06:30:24+00:00,RealRadOne,Dev-Stuff,Java,Springhttps://java2blog.com/spring-mvc-tutorial/,
+2020-09-18 17:09:08+00:00,RealRadOne,Tool,Vim,Pluginshttps://vim.fandom.com/wiki/Use_Vim_like_an_IDE,
+2020-09-17 07:51:22+00:00,Abstractxan,Javascript,Testing,,https://dev.to/gabrieltanner/an-introduction-to-testing-in-javascript-54jc
+2020-09-17 00:24:10+00:00,RealRadOne,Tool,Vim,Windowshttps://github.com/hsab/WSL-config,
+2020-09-14 15:22:16+00:00,RealRadOne,Tool,Excel,,https://www.freecodecamp.org/news/excel-vba-tutorial/
+2020-09-14 08:02:04+00:00,RealRadOne,Architecture,Design, ,https://virtualizationreview.com/Articles/2015/06/01/High-Availability.aspx?m=1&Page=1
+2020-09-14 04:46:50+00:00,Abstractxan,Vim,Tutorial,,https://www.youtube.com/watch?v=E-ZbrtoSuzw
+2020-09-13 15:49:57+00:00,Abstractxan,Mozilla,Talk,,http://dream.netizen.org/events.html
+2020-09-13 11:21:14+00:00,RealRadOne,Automation,DevOps,Ansiblehttps://geekflare.com/ansible-ad-hoc-command/,
+2020-09-13 05:54:45+00:00,Abstractxan,Monitor,,Guide,https://www.youtube.com/watch?v=9ZwCDBBwSdU
+2020-09-12 05:46:32+00:00,Abstractxan,Vim,,,https://vimawesome.com
+2020-09-12 04:42:49+00:00,RealRadOne,DevOps,Kubernetes,Playgroundhttps://labs.play-with-k8s.com/,
+2020-09-12 01:33:15+00:00,RealRadOne,Collection,Clean Code, ,https://www.youtube.com/watch?v=7EmboKQH8lM
+2020-09-11 18:15:35+00:00,siddish_ir,notes,PKM,rabbithole,https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/
+2020-09-11 13:36:48+00:00,RealRadOne,Tool,Vim,Productivityhttps://youtu.be/65Wq4fjREUU,
+2020-09-10 17:05:49+00:00,RealRadOne,Tool,Productivity,,https://habitica.com/static/home
+2020-09-10 02:20:25+00:00,Abstractxan,Collection,FOSS,,https://www.youtube.com/channel/UCnZZ6pbDqyZjALOLZo40yXg
+2020-09-09 16:00:09+00:00,RealRadOne,Collection,Computer,Scalahttps://github.com/lauris/awesome-scala#graphical-user-interfaces,
+2020-09-09 08:03:10+00:00,Abstractxan,Javascript,Tutorial,,https://dev.to/ryanameri/mastering-hard-parts-of-javascript-callbacks-i-3aj0
+2020-09-09 05:31:30+00:00,RealRadOne,Collection,Tools,Shortcutshttps://gnulinux.guru/,
+2020-09-09 05:01:11+00:00,RealRadOne,Tool, Productivity, ,https://codeburst.io/here-are-some-vs-code-keyboard-shortcuts-for-you-now-stop-using-mouse-84ae38602114
+2020-09-09 03:36:20+00:00,Abstractxan,Browser,Vim,,https://qutebrowser.org/
+2020-09-06 14:51:49+00:00,Abstractxan,ML,Data Analytics,Excel,https://www.youtube.com/playlist?list=PLlz0muypSBNbd6VbNdU9cCzCQx8_dU7Hy
+2020-09-06 08:21:53+00:00,siddish_ir,QuantifiedSelf,Tools,Automation,https://beepb00p.xyz/myinfra.html
+2020-09-05 10:44:25+00:00,RealRadOne,Automation,Scripting,Ops Technologyhttps://dev.to/thementor/i-run-powershell-on-android-and-so-can-you-458k,
+2020-09-05 06:26:13+00:00,RealRadOne,Tool, , ,https://github.com/yoda-pa/yoda
+2020-09-04 02:31:40+00:00,Abstractxan,Portfolio,Tutorials,,https://wintermutedigital.com
+2020-09-01 15:26:18+00:00,RealRadOne,NLP,Go, ,https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+2020-09-01 12:48:28+00:00,RealRadOne,DevOps,Tool,Kuberneteshttps://github.com/cncf/curriculum,
+2020-09-01 08:56:13+00:00,Abstractxan,Devtool,Data,,https://airtable.com
+2020-08-31 12:32:58+00:00,Abstractxan,Games,GameJam,Javascript,https://js13kgames.com
+2020-08-27 14:19:26+00:00,RealRadOne,/ifttt https://learn.openshift.com/playgrounds/openshift44,,,
+2020-08-20 12:21:18+00:00,RealRadOne,/ifttt https://decodility.wordpress.com/,,,
+2020-08-19 10:35:52+00:00,Abstractxan,/ifttt https://www.youtube.com/watch?v=wlR5gYd6um0,,,
+2020-08-19 04:32:19+00:00,RealRadOne,/ifttt https://youtu.be/Gjnup-PuquQ,,,
+2020-08-19 00:17:25+00:00,RealRadOne,/ifttt https://github.com/labuladong/fucking-algorithm/tree/english,,,
+2020-08-18 17:33:32+00:00,Abstractxan,/ifttt https://www.conventionalcommits.org/en/v1.0.0/,,,
+2020-08-18 13:55:04+00:00,RealRadOne,/ifttt https://serversforhackers.com/c/an-ansible2-tutorial,,,
+2020-08-18 09:22:41+00:00,Abstractxan,/ifttt https://www.youtube.com/channel/UCrl5xG-L4ZCFkR-bhUy9BVg,,,
+2020-08-16 12:34:16+00:00,siddish_ir,/ifttt https://radreads.co/10k-work/,,,
+2020-08-16 03:36:28+00:00,RealRadOne,/ifttt https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4,,,
+2020-08-14 15:31:25+00:00,RealRadOne,/ifttt https://medium.com/james-reads-public-cloud-technology-blog/3x-ansible-tips-to-make-your-life-easier-when-writing-playbooks-quickly-cfd32f64171,,,
+2020-08-14 15:29:42+00:00,RealRadOne,/ifttt https://hvops.com/articles/ansible-vs-shell-scripts/,,,
+2020-08-14 14:18:14+00:00,None,/ifttt https://blog.re-work.co/must-read-ai-papers-suggested-by-experts-part-2/amp/,,,
+2020-08-13 11:16:06+00:00,Abstractxan,/ifttt https://blog.praveen.science/oh-my-zsh-cheat-sheet/,,,
+2020-08-13 03:38:47+00:00,Abstractxan,/ifttt https://medium.com/@rafaelvidaurre/truly-understanding-async-await-491dd580500e,,,
+2020-08-12 15:53:14+00:00,RealRadOne,/ifttt https://30secondsofknowledge.com/,,,
+2020-08-12 14:20:02+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=W3tQPk8DNbk,,,
+2020-08-12 12:01:31+00:00,RealRadOne,/ifttt https://sitemod.io/,,,
+2020-08-12 09:05:05+00:00,RealRadOne,/ifttt https://www.osboxes.org/,,,
+2020-08-11 05:23:38+00:00,RealRadOne,/ifttt https://machinelearningflashcards.com/,,,
+2020-08-10 12:23:22+00:00,Abstractxan,/ifttt https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07,,,
+2020-08-10 12:21:26+00:00,Abstractxan,/ifttt https://books.google.co.in/books/about/Design_Patterns.html?id=6oHuKQe3TjQC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false,,,
+2020-08-10 09:31:16+00:00,Abstractxan,/ifttt https://www.youtube.com/watch?v=hQd4TCGB_nE&list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B&index=1,,,
+2020-08-10 02:51:31+00:00,Abstractxan,/ifttt https://artsexperiments.withgoogle.com/ocean-of-books?latitude=-43.2000&longitude=-2.5000&zoom=3.70,,,
+2020-08-09 14:07:51+00:00,RealRadOne,/ifttt https://systemdesignprep.com/home,,,
+2020-08-09 14:00:32+00:00,RealRadOne,/ifttt https://tryhackme.com/,,,
+2020-08-08 05:53:29+00:00,RealRadOne,/ifttt http://blog.cleancoder.com/,,,
+2020-08-08 05:27:35+00:00,RealRadOne,/ifttt https://supernotes.app/,,,
+2020-08-07 13:04:00+00:00,Abstractxan,/ifttt https://www.serverless.com/framework/docs/providers/aws/guide/functions/#environment-variables,,,
+2020-08-06 13:51:23+00:00,RealRadOne,/ifttt https://www.youtube.com/channel/UC8fgtKyHY0rGn68agz7vgtQ/videos,,,
+2020-08-06 13:26:43+00:00,RealRadOne,/ifttt https://breakintopm.substack.com/p/5-tips-to-nail-your-product-manager,,,
+2020-08-05 12:25:56+00:00,siddish_ir,/ifttt https://waitwho.is/,,,
+2020-08-04 04:28:38+00:00,RealRadOne,/ifttt https://github.com/iamadamdev/bypass-paywalls-chrome,,,
+2020-08-04 04:15:08+00:00,RealRadOne,/ifttt https://exercism.io/,,,
+2020-08-02 12:09:35+00:00,Abstractxan,/ifttt https://maggieappleton.com/,,,
+2020-08-01 18:14:30+00:00,RealRadOne,/ifttt https://www.lukemelia.com/blog/archives/2010/01/17/redis-in-practice-whos-online/,,,
+2020-08-01 08:17:19+00:00,Abstractxan,/ifttt http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/,,,
+2020-07-31 06:05:40+00:00,RealRadOne,/ifttt https://smerity.com/articles/2012/salting_with_usernames.html,,,
+2020-07-31 03:58:16+00:00,RealRadOne,/ifttt https://levelup.gitconnected.com/how-to-stay-relevant-and-get-tech-companies-to-beg-you-to-work-for-them-2e3ea445454f,,,
+2020-07-30 04:44:00+00:00,Abstractxan,/ifttt https://www.youtube.com/playlist?list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5,,,
+2020-07-30 04:24:16+00:00,None,/ifttt https://m.youtube.com/watch?v=mi_G5tw7Etg,,,
+2020-07-30 04:20:41+00:00,RealRadOne,/ifttt https://vowpalwabbit.org/tutorials/cb_simulation.html,,,
+2020-07-30 04:19:10+00:00,None,https://vowpalwabbit.org/tutorials/cb_simulation.html,,,
+2020-07-30 04:18:42+00:00,None,https://vowpalwabbit.org/tutorials/contextual_bandits.html,,,
+2020-07-30 04:04:55+00:00,RealRadOne,/ifttt https://en.toolpage.org/,,,
+2020-07-30 02:23:56+00:00,RealRadOne,/ifttt https://pediaa.com/difference-between-powershell-and-cmd/,,,
+2020-07-30 02:23:21+00:00,RealRadOne,/ifttt https://searchitoperations.techtarget.com/tip/On-Windows-PowerShell-vs-Bash-comparison-gets-interesting,,,
+2020-07-30 01:51:00+00:00,RealRadOne,/ifttt https://adamtheautomator.com/how-to-add-voice-to-your-powershell-scripts/,,,
+2020-07-29 16:21:36+00:00,RealRadOne,/ifttt https://github.com/portainer/portainer,,,
+2020-07-29 14:46:03+00:00,Abstractxan,None,,,
+2020-07-29 13:20:12+00:00,RealRadOne,/ifttt https://www.educba.com/redis-vs-kafka/,,,
+2020-07-29 12:31:02+00:00,RealRadOne,/ifttt https://learn.hashicorp.com/terraform?fbclid=IwAR05PSUFYieXCYEAyRGYAEsueBBF7CzYRNW0QqLbBQcs9oPz1PihkfHrPsg,,,
+2020-07-29 05:31:13+00:00,RealRadOne,/ifttt https://www.openvim.com/,,,
+2020-07-29 04:44:27+00:00,Abstractxan,/ifttt mek.fyi/hope,,,
+2020-07-27 17:41:40+00:00,Abstractxan,/ifttt https://marketingexamples.com/,,,
+2020-07-27 17:41:28+00:00,Abstractxan,/ifttt https://www.goodemailcopy.com/,,,
+2020-07-27 17:31:10+00:00,Abstractxan,/ifttt http://websocketd.com/,,,
+2020-07-27 12:28:17+00:00,Abstractxan,/ifttt https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md#12-vector-stdvector,,,
+2020-07-27 12:10:46+00:00,Abstractxan,/ifttt https://systemsthatscale.org/,,,
+2020-07-26 13:59:15+00:00,RealRadOne,/ifttt https://sdtimes.com/containers/stuck-new-devops-matrix-hell/,,,
+2020-07-26 13:28:20+00:00,Abstractxan,/ifttt http://sansforgetica.rmit/,,,
+2020-07-26 06:14:02+00:00,Abstractxan,/ifttt https://stackoverflow.blog/2020/07/24/the-perils-of-impersonation-tooling/,,,
+2020-07-26 05:43:22+00:00,RealRadOne,/ifttt https://blog.sixeyed.com/,,,
+2020-07-24 11:00:16+00:00,RealRadOne,/ifttt https://www.youtube.com/playlist?list=PLCRqvOk_BGhVi_mT_urqoJqcndJkf2lDS,,,
+2020-07-23 16:34:23+00:00,siddish_ir,/ifttt https://www.benkuhn.net/progessays/,,,
+2020-07-22 13:31:38+00:00,RealRadOne,/ifttt https://www.openmymind.net/redis.pdf,,,
+2020-07-22 13:31:12+00:00,RealRadOne,/ifttt https://www.openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/,,,
+2020-07-21 16:28:55+00:00,Abstractxan,/ifttt https://github.com/jwasham/coding-interview-university,,,
+2020-07-21 15:09:30+00:00,Abstractxan,/ifttt https://ewanvalentine.io/microservices-in-golang-part-1/,,,
+2020-07-21 15:09:23+00:00,Abstractxan,/ifttt https://gophersgo.blogspot.com/2020/07/skill-set-for-golang-developer.html,,,
+2020-07-20 01:38:28+00:00,RealRadOne,/ifttt https://www.youtube.com/playlist?list=PL6D474E721138865A,,,
+2020-07-19 13:37:23+00:00,RealRadOne,/ifttt https://learnbyexample.gitbooks.io/linux-command-line/content/Working_with_Files_and_Directories.html#text-editors,,,
+2020-07-19 05:01:35+00:00,RealRadOne,/ifttt https://libgen.lc/ads.php?md5=3f232898efb332044c9335ea515fdd0f,,,
+2020-07-19 05:00:50+00:00,RealRadOne,/ifttt https://www.mica.edu.vn/perso/Vu-Hai/EE3490/Ref/The%20C++Standard%20Library%20-%202nd%20Edition.pdf,,,
+2020-07-19 03:50:27+00:00,Abstractxan,/ifttt https://icons8.com,,,
+2020-07-18 15:52:09+00:00,Abstractxan,/ifttt http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html,,,
+2020-07-18 05:12:05+00:00,Abstractxan,ALL SAVED AND SYNCED,,,
+2020-07-18 04:45:30+00:00,RealRadOne,/ifttt https://www.ionos.com/digitalguide/server/security/rainbow-tables/,,,
+2020-07-18 04:37:26+00:00,RealRadOne,/ifttt https://www.thesecuritybuddy.com/dos-ddos-prevention/iot-botnet-and-ddos-attacks/,,,
+2020-07-18 03:08:40+00:00,Abstractxan,/ifttt https://www.mysqltutorial.org/,,,
+2020-07-18 03:08:26+00:00,Abstractxan,/ifttt https://developer.ibm.com/,,,
+2020-07-18 02:25:35+00:00,Abstractxan,/ifttt https://github.com/coursera-dl/coursera-dl,,,
+2020-07-17 15:50:38+00:00,RealRadOne,/ifttt https://www.varonis.com/blog/what-is-a-ddos-attack/,,,
+2020-07-17 14:09:19+00:00,Abstractxan,/ifttt https://medium.com/@warren2lynch/business-model-canvas-learn-by-examples-with-free-online-software-474a872a9bcd,,,
+2020-07-17 14:05:28+00:00,RealRadOne,/ifttt https://www.csoonline.com/article/3218104/what-is-stuxnet-who-created-it-and-how-does-it-work.html,,,
+2020-07-17 13:29:39+00:00,RealRadOne,/ifttt https://resources.infosecinstitute.com/mitre-attck-vulnerability-timestomping/#gref,,,
+2020-07-17 04:30:53+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=U3RkDLtS7uY,,,
+2020-07-17 04:08:22+00:00,Abstractxan,/ifttt http://web.archive.org/web/20161019110836/http://www.aaronsw.com/weblog/productivity,,,
+2020-07-16 11:52:25+00:00,RealRadOne,/ifttt https://amiunique.org/,,,
+2020-07-16 11:47:28+00:00,RealRadOne,/ifttt http://www.deviceinfo.me/,,,
+2020-07-16 07:04:50+00:00,RealRadOne,/ifttt https://securityboulevard.com/2019/03/how-watering-hole-attacks-target-the-financial-sector-and-government-agencies/,,,
+2020-07-15 15:59:46+00:00,RealRadOne,/ifttt https://error404.fun/,,,
+2020-07-15 14:21:07+00:00,RealRadOne,/ifttt https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/,,,
+2020-07-15 03:04:51+00:00,Abstractxan,/ifttt https://cerebroapp.com/,,,
+2020-07-15 02:33:12+00:00,Abstractxan,/ifttt https://ngrok.com/,,,
+2020-07-15 02:23:08+00:00,Abstractxan,/ifttt https://github.com/ginuerzh/gost/blob/master/README_en.md,,,
+2020-07-14 16:20:11+00:00,RealRadOne,/ifttt https://twitter.com/sehacure?lang=en,,,
+2020-07-14 13:51:48+00:00,Abstractxan,/ifttt https://github.com/sundowndev/hacker-roadmap,,,
+2020-07-14 05:28:57+00:00,siddish_ir,/ifttt https://www.github.com/scutan90/DeepLearning-500-questions/tree/master/English%20version%2FREADME.md,,,
+2020-07-14 05:28:24+00:00,siddish_ir,https://www.github.com/scutan90/DeepLearning-500-questions/tree/master/English%20version%2FREADME.md,,,
+2020-07-14 05:28:24+00:00,siddish_ir,/ifttt,,,
+2020-07-13 05:17:15+00:00,Abstractxan,/ifttt https://youtu.be/QM1iUe6IofM,,,
+2020-07-13 04:39:08+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=U_gANjtv28g,,,
+2020-07-12 13:33:34+00:00,Abstractxan,/ifttt https://www.youtube.com/user/briantwill,,,
+2020-07-12 04:56:50+00:00,RealRadOne,/ifttt https://www.bookmarks.design/,,,
+2020-07-12 04:49:07+00:00,siddish_ir,/ifttt https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/,,,
+2020-07-12 02:53:45+00:00,Abstractxan,/ifttt https://webtorrent.io/,,,
+2020-07-12 02:48:42+00:00,Abstractxan,/ifttt https://web.hypothes.is/about/,,,
+2020-07-11 13:17:02+00:00,RealRadOne,/ifttt https://openpeeps.com/,,,
+2020-07-10 15:52:25+00:00,RealRadOne,/ifttt https://www.freecodecamp.org/news/in-search-of-an-understandable-consensus-algorithm-a-summary-4bc294c97e0d/,,,
+2020-07-10 15:48:26+00:00,RealRadOne,/ifttt https://www.cockroachlabs.com/docs/stable/,,,
+2020-07-10 11:53:45+00:00,RealRadOne,/ifttt https://www.openmymind.net/2011/5/8/Practical-NoSQL-Solving-a-Real-Problem-w-Mongo-Red/,,,
+2020-07-10 03:48:25+00:00,RealRadOne,/ifttt https://try.redis.io/,,,
+2020-07-09 14:49:51+00:00,RealRadOne,/ifttt https://www.couchbase.com/mongodb-redis,,,
+2020-07-08 15:58:20+00:00,siddish_ir,/ifttt https://cs007.blog,,,
+2020-07-08 15:54:27+00:00,siddish_ir,/ifttt https://metacademy.org,,,
+2020-07-08 15:44:16+00:00,Abstractxan,/ifttt https://gokit.io/,,,
+2020-07-08 14:04:52+00:00,Abstractxan,/ifttt https://abstractxan.xyz/site/microservices,,,
+2020-07-08 10:04:32+00:00,RealRadOne,/ifttt https://devpost.com/,,,
+2020-07-08 01:52:59+00:00,Abstractxan,/ifttt https://apps.nextcloud.com/apps/notes,,,
+2020-07-07 15:53:58+00:00,Abstractxan,/ifttt https://git-send-email.io/,,,
+2020-07-07 14:25:29+00:00,Abstractxan,/ifttt https://gophersnippets.com/,,,
+2020-07-07 14:11:46+00:00,Abstractxan,/ifttt https://blog.golang.org/generate,,,
+2020-07-06 16:19:17+00:00,siddish_ir,/ifttt app.saastruniversity.com/share/MDOmoKP0bRuLsV7B,,,
+2020-07-06 09:42:51+00:00,siddish_ir,/ifttt https://nathanbarry.com/wealth-creation/,,,
+2020-07-06 08:59:03+00:00,siddish_ir,/ifttt https://powir.slapbot.me/,,,
+2020-07-06 08:58:23+00:00,siddish_ir,/ifttt http://highscalability.com/,,,
+2020-07-06 08:56:15+00:00,siddish_ir,/ifttt https://github.com/jnv/lists,,,
+2020-07-05 12:20:31+00:00,RealRadOne,/ifttt http://www.vishalchovatiya.com/category/misc/,,,
+2020-07-05 10:28:38+00:00,RealRadOne,/ifttt https://github.com/jlevy/the-art-of-command-line,,,
+2020-07-04 11:19:06+00:00,RealRadOne,/ifttt https://dev.to/techelevator/the-myth-of-the-t-shaped-developer-eki,,,
+2020-07-04 05:19:35+00:00,RealRadOne,/ifttt https://github.com/you-dont-need/You-Dont-Need,,,
+2020-07-04 04:33:48+00:00,Abstractxan,/ifttt https://github.com/fpereiro/backendlore,,,
+2020-07-03 04:51:26+00:00,Abstractxan,/ifttt https://youtu.be/tc4ROCJYbm0,,,
+2020-07-02 23:40:39+00:00,RealRadOne,/ifttt https://joplinapp.org/,,,
+2020-07-02 15:27:48+00:00,RealRadOne,/ifttt https://www.glideapps.com/,,,
+2020-07-02 10:11:03+00:00,RealRadOne,/ifttt https://vim-adventures.com/,,,
+2020-07-02 09:55:34+00:00,RealRadOne,/ifttt http://www.design-patterns-stories.com/,,,
+2020-07-02 07:47:33+00:00,RealRadOne,/ifttt https://www.youtube.com/playlist?list=PLD8E5717592CF5C26,,,
+2020-07-02 05:02:19+00:00,Abstractxan,/ifttt https://www.youtube.com/watch?v=H8YnVk2vhzghttps://www.youtube.com/watch?v=H8YnVk2vhzg,,,
+2020-07-02 03:37:11+00:00,Abstractxan,/ifttt https://gabnotes.org/sourcehut,,,
+2020-06-30 12:36:55+00:00,RealRadOne,/ifttt https://cp-algorithms.com/combinatorics/catalan-numbers.html,,,
+2020-06-29 12:22:47+00:00,RealRadOne,/ifttt https://www.cyberciti.biz/faq/howto-run-nginx-in-a-chroot-jail/,,,
+2020-06-29 01:28:46+00:00,Abstractxan,/ifttt https://github.com/tmrts/go-patterns,,,
+2020-06-29 01:27:41+00:00,Abstractxan,/ifttt https://golangbot.com/learn-golang-series/,,,
+2020-06-29 01:15:44+00:00,Abstractxan,/ifttt https://github.com/Alikhll/golang-developer-roadmap,,,
+2020-06-29 01:12:29+00:00,Abstractxan,/ifttt https://web.archive.org/web/20200507085330/http://www.powersearchingwithgoogle.com/,,,
+2020-06-28 11:23:00+00:00,RealRadOne,/ifttt https://github.com/Roche/lxdhub,,,
+2020-06-28 06:10:04+00:00,Abstractxan,/ifttt https://deep-learning-drizzle.github.io/,,,
+2020-06-26 13:24:47+00:00,RealRadOne,/ifttt https://www.leetfree.com/,,,
+2020-06-25 15:26:41+00:00,RealRadOne,/ifttt https://github.com/ohmyzsh/ohmyzsh/wiki,,,
+2020-06-25 12:11:50+00:00,Abstractxan,/ifttt https://github.com/syxanash/awesome-web-desktops,,,
+2020-06-25 06:50:26+00:00,RealRadOne,/ifttt https://haveibeenpwned.com/,,,
+2020-06-25 06:48:21+00:00,RealRadOne,/ifttt https://www.cs.rutgers.edu/~pxk/417/notes/index.html,,,
+2020-06-24 12:34:33+00:00,Abstractxan,/ifttt https://tiddlywiki.com/,,,
+2020-06-24 12:28:59+00:00,RealRadOne,/ifttt https://www.sitepoint.com/a-comprehensive-crash-course-into-cronjobs/,,,
+2020-06-24 11:45:52+00:00,Abstractxan,/ifttt https://learnawesome.org/,,,
+2020-06-24 05:35:03+00:00,Abstractxan,/ifttt https://tonsky.me/blog/github-redesign/,,,
+2020-06-24 04:07:30+00:00,Abstractxan,All links manually checked and  updated with Drive until this message.,,,
+2020-06-24 04:03:25+00:00,Abstractxan,/ifttt https://www.cs.usfca.edu/~galles/visualization/Algorithms.html,,,
+2020-06-22 12:18:00+00:00,RealRadOne,/ifttt https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit,,,
+2020-06-22 06:40:29+00:00,RealRadOne,/ifttt https://krita.org/en/download/krita-desktop/,,,
+2020-06-21 06:04:45+00:00,RealRadOne,/ifttt https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790,,,
+2020-06-21 02:46:25+00:00,RealRadOne,/ifttt https://kvz.io/lock-your-cronjobs.html,,,
+2020-06-21 01:50:02+00:00,RealRadOne,/ifttt https://github.com/roylee0704/gron,,,
+2020-06-20 16:08:54+00:00,siddish_ir,/ifttt https://nlpoverview.com/,,,
+2020-06-20 06:19:26+00:00,Abstractxan,/ifttt https://instagram.com/neuralnet.ai?igshid=1cpx2eb2d0p46,,,
+2020-06-20 04:09:42+00:00,siddish_ir,/ifttt https://github.com/chrislgarry/Apollo-11,,,
+2020-06-19 16:01:16+00:00,RealRadOne,/ifttt http://www.tldp.org/LDP/abs/abs-guide.pdf,,,
+2020-06-19 13:23:01+00:00,Abstractxan,/ifttt https://www.codota.com/,,,
+2020-06-19 12:04:25+00:00,Abstractxan,None,,,
+2020-06-19 11:56:33+00:00,RealRadOne,/ifttt https://crontab.guru/,,,
+2020-06-18 12:24:32+00:00,Abstractxan,/ifttt https://www.learncpp.com/,,,
+2020-06-18 01:20:15+00:00,Abstractxan,/ifttt https://google.github.io/styleguide/cppguide.html,,,
+2020-06-17 12:56:51+00:00,RealRadOne,/ifttt https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/,,,
+2020-06-17 11:24:50+00:00,RealRadOne,/ifttt https://www.kaggle.com/simulations,,,
+2020-06-16 14:56:08+00:00,Abstractxan,/ifttt https://b-ok.asia/book/2855973/aaf467,,,
+2020-06-16 14:49:27+00:00,Abstractxan,/ifttt https://fosstodon.org/web/statuses/104349271355746443,,,
+2020-06-16 11:19:23+00:00,RealRadOne,/ifttt https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/,,,
+2020-06-15 16:07:33+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=atCbbvKOKnU,,,
+2020-06-15 05:38:10+00:00,RealRadOne,/ifttt https://www.youtube.com/user/thatlondon/featured,,,
+2020-06-14 17:32:41+00:00,Abstractxan,/ifttt https://github.com/omarroth/invidious,,,
+2020-06-14 16:01:02+00:00,RealRadOne,/ifttt https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX,,,
+2020-06-14 03:41:58+00:00,Abstractxan,/ifttt https://github.com/GothenburgBitFactory/timewarrior,,,
+2020-06-13 22:22:38+00:00,Abstractxan,/ifttt https://www.dailycodingproblem.com/,,,
+2020-06-13 13:19:50+00:00,RealRadOne,/ifttt http://ksat.me/a-plain-english-introduction-to-cap-theorem,,,
+2020-06-13 12:03:36+00:00,Abstractxan,/ifttt https://youtu.be/r0Ogt-q956I,,,
+2020-06-13 04:18:39+00:00,Abstractxan,/ifttt https://www.instagram.com/machinelearning/,,,
+2020-06-13 04:17:00+00:00,Abstractxan,/ifttt https://www.youtube.com/channel/UCiuhuf2Xq0d05_4sHG0xmQA,,,
+2020-06-12 12:41:06+00:00,RealRadOne,/ifttt https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb,,,
+2020-06-12 06:28:27+00:00,Abstractxan,/ifttt https://paulbatchelor.github.io/,,,
+2020-06-12 06:24:28+00:00,Abstractxan,/ifttt https://github.com/google/orbit,,,
+2020-06-12 06:19:06+00:00,Abstractxan,/ifttt https://github.com/jhawthorn/fzy,,,
+2020-06-12 05:58:42+00:00,RealRadOne,/ifttt https://leetcode.com/discuss/general-discussion/680706/article-on-trie-general-template-and-list-of-problems,,,
+2020-06-12 04:56:46+00:00,Abstractxan,/ifttt https://www.youtube.com/playlist?list=PLmxT2pVYo5LDMV0epL4z4CUbxvIw6umg_,,,
+2020-06-12 04:17:59+00:00,RealRadOne,/ifttt https://www.vagrantup.com/intro/vs/docker,,,
+2020-06-11 22:41:13+00:00,Abstractxan,Drive  is now cleaned and updated.,,,
+2020-06-11 21:43:31+00:00,Abstractxan,/ifttt https://www.pcmaffey.com/roll-your-own-analytics,,,
+2020-06-10 04:12:22+00:00,Abstractxan,/ifttt https://summerofcode.withgoogle.com/organizations/?sp-page=2,,,
+2020-06-09 15:18:00+00:00,Abstractxan,/ifttt https://github.com/tonsky/FiraCode,,,
+2020-06-09 12:39:31+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=qQ8vS2btsxI,,,
+2020-06-09 07:15:24+00:00,RealRadOne,/ifttt https://goalkicker.com/,,,
+2020-06-09 00:52:09+00:00,Abstractxan,/ifttt https://althea.net/,,,
+2020-06-09 00:42:04+00:00,Abstractxan,/ifttt https://nodes.io/,,,
+2020-06-08 14:42:54+00:00,RealRadOne,/ifttt https://docs.google.com/document/u/0/d/1VNoEUzBtyCw0fDw0X_bvuhmCwz1qhNjETPJc5VRZqm8/mobilebasic#,,,
+2020-06-08 12:34:16+00:00,Abstractxan,/ifttt https://makelinux.github.io/kernel/map/,,,
+2020-06-08 04:09:55+00:00,RealRadOne,/ifttt https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to,,,
+2020-06-08 04:06:24+00:00,RealRadOne,/ifttt https://www.pdfdrive.com/clean-code-ricardo-geek-d18658971.html,,,
+2020-06-07 15:27:34+00:00,RealRadOne,/ifttt https://github.com/narkoz/hacker-scripts,,,
+2020-06-07 04:32:19+00:00,Abstractxan,/ifttt https://hackattic.com/challenges,,,
+2020-06-06 15:05:57+00:00,Abstractxan,/ifttt https://youtu.be/iKn0GzF5-IU,,,
+2020-06-06 13:02:38+00:00,Abstractxan,/ifttt https://youtu.be/NoDRq6Twkts,,,
+2020-06-06 10:13:08+00:00,RealRadOne,/ifttt https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA/playlists,,,
+2020-06-06 08:50:30+00:00,RealRadOne,/ifttt http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf,,,
+2020-06-05 05:48:33+00:00,Abstractxan,/ifttt https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF,,,
+2020-06-04 13:24:28+00:00,RealRadOne,/ifttt https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z,,,
+2020-06-04 12:32:24+00:00,RealRadOne,/ifttt https://leetcode.com/discuss/interview-question/object-oriented-design/124737/Difference-between-abstraction-and-encapsulation,,,
+2020-06-04 12:30:56+00:00,RealRadOne,/ifttt https://leetcode.com/discuss/interview-question/object-oriented-design/124703/Object-Oriented-design-Question,,,
+2020-06-04 10:48:02+00:00,Abstractxan,/ifttt https://gowebexamples.com/http-server/,,,
+2020-06-04 08:09:39+00:00,Abstractxan,/ifttt https://ncase.me/trust/,,,
+2020-06-04 08:09:23+00:00,Abstractxan,/ifttt https://www.youtube.com/watch?v=XRXTsQwyZSU,,,
+2020-06-04 08:09:09+00:00,Abstractxan,/ifttt https://explorabl.es/,,,
+2020-06-03 12:40:36+00:00,RealRadOne,/ifttt interviewbit.com/courses/programming/topics/time-complexity/,,,
+2020-06-03 12:37:39+00:00,RealRadOne,/ifttt https://leetcode.com/discuss/interview-question/object-oriented-design/124739/Parking-Lot-Design-Using-OO-Design,,,
+2020-06-03 12:34:06+00:00,RealRadOne,/ifttt https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O,,,
+2020-06-03 12:33:54+00:00,RealRadOne,/ifttt https://leetcode.com/list/xo2bgr0r/,,,
+2020-06-03 05:05:15+00:00,RealRadOne,/ifttt https://medium.com/better-programming/how-to-ace-the-coding-interview-by-an-ex-facebook-interviewer-9c163a845d05,,,
+2020-06-01 05:14:47+00:00,RealRadOne,/ifttt http://www.siafoo.net/algorithm/11,,,
+2020-05-27 05:48:50+00:00,RealRadOne,/ifttt https://leetcode.com/discuss/interview-question/object-oriented-design/454422/OOP-vs-FP-vs-AOP,,,
+2020-05-26 15:22:04+00:00,RealRadOne,/ifttt https://www.codeproject.com/Articles/9680/Persistent-Data-Structures,,,
+2020-05-26 14:38:11+00:00,RealRadOne,/ifttt https://github.com/online-judge-tools/oj,,,
+2020-05-26 06:48:09+00:00,RealRadOne,/ifttt https://pandoc.org/,,,
+2020-05-26 00:56:22+00:00,Abstractxan,/ifttt https://contribute.dev/,,,
+2020-05-26 00:53:08+00:00,Abstractxan,/ifttt https://algorithm-visualizer.org,,,
+2020-05-25 06:39:40+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=ByDNPmgPRjg,,,
+2020-05-25 04:23:14+00:00,Abstractxan,/ifttt https://www.geeksforgeeks.org/lmns-gq/,,,
+2020-05-24 12:53:49+00:00,RealRadOne,/ifttt https://leetcode.com/discuss/general-discussion/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide,,,
+2020-05-24 10:38:46+00:00,RealRadOne,/ifttt https://medium.com/@kartikrawat61/dbms-notes-for-sde1-preparation-80c460604aa6,,,
+2020-05-23 15:37:59+00:00,Abstractxan,/ifttt https://drewdevault.com/,,,
+2020-05-23 15:34:34+00:00,Abstractxan,/ifttt https://sourcehut.org,,,
+2020-05-23 12:53:22+00:00,RealRadOne,/ifttt https://github.com/collabnix/dockerlabs,,,
+2020-05-21 16:15:05+00:00,RealRadOne,/ifttt https://neo4j.com/developer/docker-run-neo4j/,,,
+2020-05-21 16:10:17+00:00,RealRadOne,/ifttt https://github.com/biolab/orange-docker,,,
+2020-05-21 12:59:19+00:00,Abstractxan,/ifttt https://orange.biolab.si/,,,
+2020-05-21 09:07:07+00:00,Abstractxan,/ifttt www.pramp.com,,,
+2020-05-20 05:18:36+00:00,RealRadOne,/ifttt http://www.hdip-data-analytics.com/_media/resources/pdf/s4/grokking_deep_learning.pdf?fbclid=IwAR03p-n2PRvh6gcxibGwQe4BHs7QwfRjZ2ugDCIauHLohsyYOyMnpYIrvuE,,,
+2020-05-20 02:54:55+00:00,Abstractxan,/ifttt https://www.11ty.dev/,,,
+2020-05-19 13:23:33+00:00,Abstractxan,/ifttt https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb,,,
+2020-05-18 16:20:30+00:00,RealRadOne,/ifttt https://towardsdatascience.com/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d,,,
+2020-05-18 07:56:12+00:00,RealRadOne,/ifttt https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589,,,
+2020-05-18 03:38:40+00:00,RealRadOne,/ifttt https://www.quora.com/What-is-break-point-in-machine-learning,,,
+2020-05-17 12:29:02+00:00,RealRadOne,/ifttt https://tinysubversions.com/,,,
+2020-05-16 16:28:48+00:00,RealRadOne,/ifttt https://www.acodersjourney.com/database-sharding/,,,
+2020-05-16 15:41:32+00:00,RealRadOne,/ifttt https://www.educative.io/edpresso/what-are-functional-and-nonfunctional-requirements,,,
+2020-05-16 15:21:12+00:00,RealRadOne,/ifttt https://github.com/donnemartin/system-design-primer,,,
+2020-05-16 12:03:05+00:00,RealRadOne,/ifttt,,,
+2020-05-16 11:48:58+00:00,RealRadOne,/ifttt https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way,,,
+2020-05-16 11:39:08+00:00,Abstractxan,/ifttt https://www.tensorflow.org/tutorials,,,
+2020-05-16 06:25:15+00:00,RealRadOne,/ifttt https://www.pdfdrive.com/head-first-design-patterns-u-cursos-d16346712.html,,,
+2020-05-16 05:34:07+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=jX3OXwpEpl8,,,
+2020-05-16 02:46:35+00:00,Abstractxan,/ifttt https://en.wikipedia.org/wiki/Knowledge_worker,,,
+2020-05-16 02:35:49+00:00,Abstractxan,/ifttt https://en.wikipedia.org/wiki/Flow-based_programming,,,
+2020-05-15 15:10:13+00:00,RealRadOne,/ifttt https://levelup.gitconnected.com/i-got-rejected-by-google-1ab8f7a4908e,,,
+2020-05-15 13:04:39+00:00,Abstractxan,⭐️⭐️⭐️⭐️,,,
+2020-05-15 13:04:11+00:00,Abstractxan,/ifttt https://nikitavoloboev.xyz/,,,
+2020-05-15 12:58:34+00:00,Abstractxan,/ifttt https://webring.xxiivv.com/wiki.html,,,
+2020-05-15 12:47:44+00:00,Abstractxan,/ifttt https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=beaker-browser,,,
+2020-05-15 12:16:52+00:00,Abstractxan,/ifttt http://cultureandcommunication.org/galloway/anti-computer,,,
+2020-05-15 12:16:36+00:00,RealRadOne,/ifttt https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html,,,
+2020-05-15 11:51:09+00:00,Abstractxan,/ifttt https://p2pforever.org/,,,
+2020-05-15 11:46:25+00:00,Abstractxan,/ifttt https://beakerbrowser.com/,,,
+2020-05-15 10:23:55+00:00,Abstractxan,/ifttt https://developers.redhat.com/articles/defensive-coding-guide/?intcmp=70160000000h1s6AAA&extIdCarryOver=true&sc_cid=701f2000001OH79AAG,,,
+2020-05-15 02:32:11+00:00,Abstractxan,/ifttt https://gist.github.com/AbstractXan/81116f3583aa52d784e4d69ea88e0062,,,
+2020-05-14 17:08:16+00:00,Abstractxan,/ifttt https://fosstodon.org/web/statuses/104164193766251528,,,
+2020-05-14 16:51:17+00:00,Abstractxan,/ifttt https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3,,,
+2020-05-14 13:45:34+00:00,Abstractxan,/ifttt https://flathub.org/apps/details/com.github.alainm23.planner,,,
+2020-05-14 11:30:41+00:00,Abstractxan,/ifttt https://serviceworke.rs/,,,
+2020-05-14 11:28:49+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=cfs47D_L71I,,,
+2020-05-14 11:24:06+00:00,RealRadOne,/ifttt http://graphics.stanford.edu/~seander/bithacks.html#IntegerLog10Obvious,,,
+2020-05-14 08:17:00+00:00,RealRadOne,None,,,
+2020-05-14 08:14:42+00:00,Abstractxan,/ifttt http://genparse.sourceforge.net/,,,
+2020-05-14 07:54:34+00:00,Abstractxan,None,,,
+2020-05-14 07:54:27+00:00,Abstractxan,None,,,
+2020-05-14 07:03:07+00:00,Abstractxan,/ifttt https://jrnl.sh/,,,
+2020-05-14 07:02:54+00:00,Abstractxan,/ifttt http://www.valgrind.org/,,,
+2020-05-14 06:28:31+00:00,Abstractxan,/ifttt https://fosstodon.org/tags/fossmendations,,,
+2020-05-14 06:18:31+00:00,RealRadOne,/ifttt https://www.youtube.com/watch?v=9g32v7bK3Co,,,
+2020-05-14 06:14:18+00:00,RealRadOne,/ifttt https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw,,,
+2020-05-14 06:13:54+00:00,RealRadOne,/ifttt@IFTTT,,,
+2020-05-14 06:13:42+00:00,Abstractxan,None,,,
+2020-05-14 06:13:34+00:00,Abstractxan,Format: <Category Tag1>,<Tag2>,<Tag3>,<Link>We'll update the links on drive Drive
+2020-05-14 06:04:07+00:00,Abstractxan,/ifttt https://github.com/goldsborough/latexpp,,,
+2020-05-14 06:03:54+00:00,Abstractxan,/ifttt https://www.katacoda.com/embed/,,,
+2020-05-14 06:00:30+00:00,Abstractxan,/ifttt http://re2c.org/,,,
+2020-05-14 06:00:13+00:00,Abstractxan,http://re2c.org/,,,
+2020-05-14 06:00:13+00:00,Abstractxan,/ifttt@IFTTT,,,
+2020-05-14 05:58:12+00:00,Abstractxan,/ifttt https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw,,,
+2020-05-14 05:24:19+00:00,RealRadOne,https://www.educative.io/m/github-student-course-list,,,
+2020-05-14 05:24:02+00:00,RealRadOne,https://leetcode.com/discuss/interview-question/124658/Design-a-URL-Shortener-(-TinyURL-)-System/,,,
