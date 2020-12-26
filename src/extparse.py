@@ -31,8 +31,10 @@ def getTags(tagsText):
         tagList.append('')
     return tagList[:4]
 
-outCSV = open("data_dummy.csv","w")
-outCSV.write('Date,User,Tag1,Tag2,Tag3,Link\n')    
+outCSV = pd.read_csv("/home/radone/LINK_PUMP/src/data_dummy.csv", error_bad_lines=False)
+#outCSV.write('Date,User,Tag1,Tag2,Tag3,Link\n')  
+delimiter = ','
+#outCSV.write(delimiter.join(header)+'\n')
 
 chats =client.get_messages(group_username, 100000)
 # n number of messages to be extracted
@@ -49,8 +51,9 @@ if len(chats):
         sender= chat.get_sender().username
         print(sender)
         row = createRow(str(chat.date),str(sender), tags, link)
-        delimiter = ','
-        outCSV.write(delimiter.join(row)+'\n')
-
+        #delimiter = ','
+        #row=delimiter.join(row)+'\n'
+        outCSV.append(pd.DataFrame(row))
+print(outCSV)
 
 
