@@ -29,7 +29,7 @@ new_links = []
 
 for chat in chats:
     date = chat.date
-    if date < last_datetime:
+    if date <= last_datetime:
         break
 
     tags, link = getTags(chat.message)
