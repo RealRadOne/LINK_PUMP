@@ -1,4 +1,94 @@
 Date,User,Tag1,Tag2,Tag3,Link
+2021-01-02 12:14:16+00:00,RealRadOne,DataBase,CMDB,Cobbler, https://cobbler.github.io/quickstart/
+2021-01-01 11:30:38+00:00,siddish_ir,nodejs,guide,,https://github.com/goldbergyoni/nodebestpractices#readme
+2020-12-30 03:09:40+00:00,RealRadOne,Ansible,Bug,Fixes, https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/
+2020-12-28 05:16:34+00:00,Abstractxan,CP,Programming,,https://cses.fi/book/book.pdf
+2020-12-27 16:33:47+00:00,siddish_ir,Tools,Extension,Generator,https://extensionizr.com/
+2020-12-27 06:30:21+00:00,Abstractxan,Collection,Programming,,http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf
+2020-12-26 15:07:07+00:00,Abstractxan,Rabbithole,Collection,,https://www.howtobuildsoftware.com
+2020-12-25 16:32:56+00:00,RealRadOne,Algorithms,CP,, https://cp-algorithms.com/
+2020-12-23 12:29:31+00:00,siddish_ir,tools,,,https://bbodi.github.io/notecalc3/
+2020-12-22 06:41:00+00:00,siddish_ir,Tutorial,Agile,Software Development, https://www.atlassian.com/agile
+2020-12-21 12:32:11+00:00,siddish_ir,SideProjects,Guide,,https://drive.google.com/file/d/1yVp8BO11Ijt44J8Nn95SD7XjvzrLBJaU/view
+2020-12-21 09:29:19+00:00,siddish_ir,Guide,Softskills,,https://xyproblem.info/
+2020-12-21 06:53:27+00:00,Abstractxan,Database,,,http://www.corpit.ru/mjt/tinycdb.html
+2020-12-21 06:14:52+00:00,Abstractxan,Rabbithole,Collection,,https://opguides.info
+2020-12-21 06:13:14+00:00,Abstractxan,Collection,C,Programming,https://github.com/rby90/Project-Based-Tutorials-in-C
+2020-12-21 05:36:43+00:00,Abstractxan,Image,,,https://www.geometrize.co.uk
+2020-12-20 16:59:45+00:00,Abstractxan,OS,C,,https://github.com/klikaba/klika-os
+2020-12-19 06:34:06+00:00,None,Machine Coding, SDE Interview,, https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg
+2020-12-18 06:54:01+00:00,siddish_ir,GIt,,,https://chris.beams.io/posts/git-commit/
+2020-12-15 13:17:08+00:00,Abstractxan,Javascript,Library,,https://fullcalendar.io
+2020-12-15 08:11:15+00:00,siddish_ir,OOP,DesignPatterns,Tutorial,https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+2020-12-15 03:06:09+00:00,Abstractxan,,,,None
+2020-12-14 14:40:43+00:00,Abstractxan,Databases,,,https://www.youtube.com/watch?v=aYDBdevdwyQ
+2020-12-14 12:10:04+00:00,siddish_ir,Collection,SystemDesign,Tutorial,https://www.codekarle.com/
+2020-12-14 04:47:14+00:00,Abstractxan,Rabbithole,Collection,,https://media.handmade-seattle.com/
+2020-12-13 16:03:13+00:00,siddish_ir,Guide,SRE,DevOps,https://linkedin.github.io/school-of-sre/
+2020-12-13 13:41:28+00:00,Abstractxan,Vim,,,http://vimsheet.com
+2020-12-13 06:02:46+00:00,siddish_ir,Guide,OOP,Programming,http://principles-wiki.net/collections:ood_principle_language
+2020-12-11 07:39:27+00:00,siddish_ir,SystemDesign,Collection,Tutorial,http://highscalability.com/all-time-favorites/
+2020-12-10 06:08:31+00:00,Abstractxan,MachineLearning,Visualisation,,http://www.r2d3.us
+2020-12-09 15:01:02+00:00,Abstractxan,Databases,,,https://www.percona.com
+2020-12-08 07:35:12+00:00,siddish_ir,Collection,DDIA,Roadmap,https://dancres.github.io/Pages/
+2020-12-08 07:22:25+00:00,Abstractxan,Collection,Computers,,https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye
+2020-12-07 17:10:32+00:00,siddish_ir,CLI,Guide,,https://clig.dev/
+2020-12-05 09:27:29+00:00,Abstractxan,,,,None
+2020-12-05 03:46:41+00:00,algokun,Networking,Collection,,https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN
+2020-12-04 16:44:39+00:00,siddish_ir,Cybersecurity,Tools,Tutorial,https://anonymousplanet.github.io/thgtoa/guide.html
+2020-12-03 23:37:37+00:00,Abstractxan,Databases,Collection,,https://dbdb.io/
+2020-12-02 17:17:11+00:00,siddish_ir,Tools,notetalking,journal,https://jrnl.sh/
+2020-12-02 14:10:41+00:00,Abstractxan,Databases,Collection,,https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+2020-12-02 02:58:27+00:00,siddish_ir,Interview,Guide,Roadmap,https://rb.gy/qmbbin
+2020-12-02 02:45:54+00:00,siddish_ir,Collection,Interview,,https://www.youtube.com/playlist?list=PLLucmoeZjtMSl5kTg7IjPkVGy7kUEbqsG
+2020-12-02 02:45:04+00:00,siddish_ir,Colection,Interview,Behavioral,https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL
+2020-12-01 14:40:29+00:00,Abstractxan,Architecture,Visualisation,,https://c4model.com
+2020-12-01 13:21:14+00:00,Abstractxan,GCC,Programming,,https://www.geeksforgeeks.org/builtin-functions-gcc-compiler/
+2020-12-01 09:20:46+00:00,Abstractxan,Databases,Tutorial,,https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
+2020-11-25 16:44:48+00:00,algokun,Roadmap,Collection,,https://github.com/liuchong/awesome-roadmaps
+2020-11-25 16:33:37+00:00,algokun,DesignPatterns,Tutorial,,https://refactoring.guru/design-patterns/what-is-pattern
+2020-11-24 15:05:09+00:00,algokun,Algorithms,NumberTheory,Math,https://codeforces.com/blog/entry/77137
+2020-11-24 05:11:31+00:00,Abstractxan,C++,GUI,,https://github.com/texus/TGUI
+2020-11-20 16:36:18+00:00,Abstractxan,OS,,,https://github.com/marvinborner/Melvix
+2020-11-20 15:23:19+00:00,algokun,Databases,,,https://www.kaggle.com/learn/advanced-sql
+2020-11-20 15:21:54+00:00,algokun,Databases,Tutorials,Recursion,https://youtu.be/2Fn0WAyZV0E?t=4158
+2020-11-18 10:58:00+00:00,Abstractxan,Vim,,,https://vimconfig.com
+2020-11-18 06:47:52+00:00,Abstractxan,Databases,Tutorial,,https://www.youtube.com/watch?v=HubezKbFL7E
+2020-11-17 18:26:13+00:00,siddish_ir,Tools,Git,,https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/
+2020-11-16 13:16:09+00:00,Abstractxan,Diagrams,,,https://sequencediagram.org
+2020-11-12 11:54:50+00:00,algokun,Collection,Tutorial,Drawing,https://ralphammer.com/a-quick-beginners-guide-to-drawing/
+2020-11-02 14:08:14+00:00,Abstractxan,CORS,,,https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+2020-11-02 14:07:18+00:00,Abstractxan,CORS,Serverless,,https://www.serverless.com/blog/cors-api-gateway-survival-guide
+2020-11-01 05:20:05+00:00,siddish_ir,Course,Distributed Computing,Guide,https://github.com/pingcap/talent-plan/
+2020-10-31 12:33:00+00:00,Abstractxan,PDF,C,,http://www.eprg.org/pdfcorner/text2pdf/
+2020-10-26 13:46:28+00:00,Abstractxan,Productivity,DevTools,,https://github.com/johannesjo/super-productivity
+2020-10-24 13:21:46+00:00,Abstractxan,Docker,,,https://www.linuxserver.io
+2020-10-24 13:06:13+00:00,Abstractxan,SelfHosted,,,https://www.bookstackapp.com/
+2020-10-24 13:03:43+00:00,Abstractxan,P2P,,,https://ipfs.io
+2020-10-17 04:54:25+00:00,Abstractxan,Tools,Productivity,,https://plaintextproject.online/tools.html
+2020-10-16 08:57:46+00:00,algokun,Collection,Probability,Tutorials,https://seeing-theory.brown.edu/
+2020-10-14 16:25:34+00:00,algokun,Collection,C++,STL,https://youtu.be/2olsGf6JIkU
+2020-10-11 12:42:03+00:00,Abstractxan,Devtool,C++,GUI,https://github.com/ocornut/imgui
+2020-10-11 11:44:19+00:00,algokun,Algorithms,,,https://algorithms-tour.stitchfix.com/
+2020-10-10 05:45:11+00:00,Abstractxan,Kubernetes,Tutorial,,https://www.youtube.com/watch?v=90kZRyPcRZw
+2020-10-08 18:26:34+00:00,algokun,Hacking,apple,,https://samcurry.net/hacking-apple/
+2020-10-08 09:14:39+00:00,Abstractxan,Roadmap,Devops,,https://roadmap.sh/devops
+2020-10-08 06:18:35+00:00,algokun,Tool,status,chat,https://year.chat/
+2020-10-07 10:49:35+00:00,RealRadOne,Programming,Sort,Radix, https://youtu.be/ujb2CIWE8zY
+2020-10-05 09:12:15+00:00,siddish_ir,Git,ToolHelp,Tutorial,https://ohshitgit.com/
+2020-10-05 08:14:05+00:00,Abstractxan,Article.Compiler,C++,,https://medium.com/@alitech_2017/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378
+2020-10-05 07:05:01+00:00,Abstractxan,Portfolio,,,https://avanier.now.sh/
+2020-10-05 07:02:50+00:00,Abstractxan,Tools,TimeTracker,,https://gitlab.com/joshavanier/log
+2020-10-03 12:23:34+00:00,algokun,Reading,Fastreading,,https://www.fready.co/blog/reading-techniques
+2020-10-02 16:59:51+00:00,siddish_ir,System Design,Collection,,https://docs.google.com/spreadsheets/u/0/d/17tmeNJfKBvVV3bG2fYlMpqTxUIfljqmnmkaeY6Xekuo/htmlview#gid=0
+2020-10-02 12:32:42+00:00,RealRadOne,System Design,Collection,,https://github.com/puncsky/system-design-and-architecture
+2020-10-02 03:48:45+00:00,siddish_ir,Tool,reddit,visualization, https://anvaka.github.io/sayit/?query=
+2020-09-30 15:16:59+00:00,Abstractxan,Kubernetes,ELI5,,https://speakerdeck.com/chrisshort/the-illustrated-childrens-guide-to-kubernetes
+2020-09-30 13:24:46+00:00,siddish_ir,Tools,money,QuantifiedSelf, https://www.reddit.com/r/personalfinance/wiki/tools
+2020-09-29 17:18:21+00:00,algokun,Tool,,,https://url.dev/
+2020-09-29 08:32:27+00:00,siddish_ir,Tool,extension,history,  https://getmemex.com
+2020-09-29 07:32:15+00:00,algokun,Technology,,,https://www.youtube.com/watch?v=ZFP2sb28OGU&t=691s
+2020-09-28 15:28:26+00:00,Abstractxan,Productivity,,,https://todoist.com/productivity-methods
 2020-06-20T09:39:42,_/\_,,,,https://github.com/chrislgarry/Apollo-11
 2020-06-20T21:38:54,_/\_,,,,https://nlpoverview.com/
 2020-07-06T14:26:15,_/\_,,,,https://github.com/jnv/lists
