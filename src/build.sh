@@ -1,13 +1,21 @@
+pip3 install telethon
+pip3 install pandas
 python3 extparse.py
+
 rm ../site/*
 rm mizi
 rm website.md
 
-cd ../mizi/src/
+# Need to move to mizi/src to build
+cd ../mizi/src
 sh build.sh
-cp main ../../src/mizi
+cp mizi ../../src/mizi
 
-cd ../../src
-g++ -std=c++11 -DDEBUG -Wall -Wpedantic -Wshadow -Wextra -g -Og main.cpp -o main
-./main
+# Move back to link pump src
+cd ../../src/
+g++ -std=c++11 -DDEBUG -Wall -Wpedantic -Wshadow -Wextra -g -Og main.cpp -o linkpump
+
+# Link pump generates website.md
+./linkpump
+# Run mizi
 ./mizi

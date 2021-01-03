@@ -4,6 +4,7 @@
 #include<unordered_map>
 #include<map>
 #include<vector>
+#include<algorithm>
 #include"helper.cpp"
 
 using namespace std;
@@ -70,7 +71,7 @@ Link* parseCsvLine(std::string line, long int linecount){
     currLink->link = cells[5];
     currLink->title = cells[5];
     return currLink;
-};
+}
 
 /*
  * @input *link Link object pointer
@@ -79,7 +80,7 @@ void addLink(Link* link){
     for(auto item : link->tags){
         
         //Remove Whitespaces
-        item.erase(remove(item.begin(),item.end(),' '),item.end());
+        item.erase(std::remove(item.begin(),item.end(),' '),item.end());
         item = capsFirst(item);
 
         // If tag not found, create tag

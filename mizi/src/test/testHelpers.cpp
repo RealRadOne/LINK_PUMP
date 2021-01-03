@@ -29,7 +29,7 @@ vector<tuple<string,string,string>> testToLowerCaseProvider(){
 /**
  * testToLowerCase
  */
-int testToLowerCase()
+void testToLowerCase()
 {         
     cout << HELPER_DOMAIN << "toLowerCase" << endl;
 
@@ -167,7 +167,18 @@ vector<tuple<string,string,string,string>> testParseLinksProvider(){
             "Correct tag",
             "{{tag}}",
             path,
-            "<a class='tag' href='tag.html'>{{tag}}</a>")
+            "<a class='tag' href='tag.html'>{{tag}}</a>"),
+        make_tuple(
+            "Wrong tag",
+            "text {{tag text",
+            path,
+            "text {{tag text"),
+        make_tuple(
+            "Wrong tag - missing {",
+            "text {tag text",
+            path,
+            "text {tag text")
+
     };
 
     testParams.insert(testParams.begin(),tagTests.begin(),tagTests.end());
@@ -179,9 +190,9 @@ vector<tuple<string,string,string,string>> testParseLinksProvider(){
 /**
  * testParseLinks
  */
-int testParseLinks()
+void testParseLinks()
 {          
-    cout << HELPER_DOMAIN << "parseLinks : " << endl;
+    cout << HELPER_DOMAIN << "parseLinks" << endl;
 
     vector<tuple<string,string,string,string>> tests = testParseLinksProvider(); 
     int passed = 0;
