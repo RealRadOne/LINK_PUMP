@@ -117,7 +117,7 @@ void outputMD(){
         mdFile << "###  " << std::endl;
 
         for(auto link: list->second){
-            std::string outline = "- [" + stripEndl(link->title) + "](" + stripEndl(link->link) + ")";
+            std::string outline = "- [" + link->title + "](" + link->link + ")";
             //std::cout << outline << std::endl;
             mdFile << outline << std::endl;
         }
@@ -130,6 +130,7 @@ int main(){
     std::string line = " ";
     long int linecount = 1;
     if (csvFile.is_open()) {
+        
         while (getline(csvFile, line)) {
             auto link = parseCsvLine(line,linecount);
             if(link == NULL){continue;}
