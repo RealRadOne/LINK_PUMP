@@ -1,3 +1,4 @@
+pip --version
 pip3 install telethon
 pip3 install pandas
 python3 extparse.py
