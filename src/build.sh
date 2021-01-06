@@ -1,6 +1,6 @@
 pip --version
-pip3 install telethon
-pip3 install pandas
+pip install telethon
+pip install pandas
 python3 extparse.py
 
 rm ../site/*
